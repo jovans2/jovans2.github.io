@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Jovan Stojkovic, a second year PhD student at University of Illinois at Urbana-Champaign. I am part of [i-acoma group](http://iacoma.cs.uiuc.edu/) led by professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). My research focus is on cloud computing data platforms and deployment paradigms, such as microservices and serverless computing. I enjoy building systems and exploring ways to make them fast, reliable, and
-efficient in a holistic manner: from the hardware architecture up to the platform and application level.
+I am Jovan Stojkovic, a second year PhD student at University of Illinois at Urbana-Champaign. I am part of [i-acoma group](http://iacoma.cs.uiuc.edu/) led by professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). 
+
+My research focus is on cloud computing data platforms and deployment paradigms, such as microservices and serverless computing. I enjoy building systems and exploring ways to make them fast, reliable, and efficient in a holistic manner: from the hardware architecture up to the platform and application level. 
+
+I completed my undergraduate studies at School of Electrical Engineering, University of Belgrade, Serbia. Every year (2017-2020), I won the award for the best student of my department, Computer Engineering and Information Theory.
 
