@@ -20,6 +20,16 @@ author_profile: true
 
 <ol reversed>
 
+<li> <b>J. Stojkovic</b>, T. Xu, H. Franke, J. Torrellas. (February 2023). &quot;SpecFaaS: Accelerating Serverless Applications with Speculative Function Execution&quot;.	<i> To Appear In Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>.
+Paper: <a href="" target="_blank">[PDF]</a>.
+Presentation: <a href="" target="_blank">[PDF]</a>
+</li>
+  
+<li> <b>J. Stojkovic</b>, N. Mantri, D. Skarlatos, T. Xu, J. Torrellas. (February 2023). &quot;Memory Efficient Hashed Page Tables&quot;.	<i> To Appear In Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>.
+Paper: <a href="" target="_blank">[PDF]</a>.
+Presentation: <a href="" target="_blank">[PDF]</a>
+</li>
+
 <li> <b>J. Stojkovic</b>, D. Skarlatos, A. Kokolis, T. Xu, J. Torrellas. (March 2022). &quot;Parallel Virtualized Memory Translation with Nested Elastic Cuckoo Page Tables&quot;.	<i>In Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>.
 Paper: <a href="http://iacoma.cs.uiuc.edu/iacoma-papers/asplos22_1.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="http://iacoma.cs.uiuc.edu/iacoma-papers/PRES/present_asplos22_1.pdf" target="_blank">[PDF]</a>
