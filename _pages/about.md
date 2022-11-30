@@ -12,5 +12,8 @@ I am Jovan Stojkovic, a third year PhD student at University of Illinois at Urba
 
 My research focus is on the cloud computing data platforms and deployment paradigms, such as microservices and serverless computing. I have been working on novel hardware and software abstractions in data-center architectures. I enjoy building systems and exploring ways to make them fast, reliable, and efficient in a holistic manner: from the hardware architecture up to the platform and application level. 
 
-I completed my undergraduate studies at School of Electrical Engineering, University of Belgrade, Serbia. Every year (2017-2020), I won the award for the best student of my department, Computer Engineering and Information Theory.
+
+I won the [Kenichi Miura Award (2022)](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/kenichi-miura-award) for excellence in High Performance Computing.
+Also, I was awarded student travel grants to attend MICRO'22 and ASPLOS'22 conferences.
+I completed my undergraduate studies at [School of Electrical Engineering](https://www.etf.bg.ac.rs/en), University of Belgrade, Serbia. Every year (2017-2020), I won the award for the best student of my department, Computer Engineering and Information Theory.
 
