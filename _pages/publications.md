@@ -26,8 +26,7 @@ Presentation: <a href="" target="_blank">[PDF]</a>
 </li>
   
 <li> <b>J. Stojkovic</b>, N. Mantri, D. Skarlatos, T. Xu, J. Torrellas. (February 2023). &quot;Memory Efficient Hashed Page Tables&quot;.	<i> To Appear In Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>.
-Paper: [PDF](../files/ME_HPTs_HPCA_Camera.pdf)
-Paper: [PDF](../files/jovan_cv.pdf).
+Paper: <a href="../files/ME_HPTs_HPCA_Camera.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>
 </li>
 
