@@ -31,22 +31,22 @@ Presentation: <a href="" target="_blank">[PDF]</a>
 </li>
 
 <li> <b>J. Stojkovic</b>, D. Skarlatos, A. Kokolis, T. Xu, J. Torrellas. (March 2022). &quot;Parallel Virtualized Memory Translation with Nested Elastic Cuckoo Page Tables&quot;.	<i>In Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>.
-Paper: <a href="http://iacoma.cs.uiuc.edu/iacoma-papers/asplos22_1.pdf" target="_blank">[PDF]</a>.
+Paper: <a href="../files/Nested_ASPLOS_Camera.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="http://iacoma.cs.uiuc.edu/iacoma-papers/PRES/present_asplos22_1.pdf" target="_blank">[PDF]</a>
 </li>
   
 <li> G. Lan, Z. Liu, Y. Zhang, T. Scargill, <b>J. Stojkovic</b>, C. Joe-Wong, M. Gorlatova. (February 2022). &quot;Edge-assisted Collaborative Image Recognition for Mobile Augmented Reality&quot;.	<i>ACM Transactions on Sensor Networks</i>.
-Paper: <a href="https://dl.acm.org/doi/abs/10.1145/3469033" target="_blank">[PDF]</a>
+Paper: <a href="../files/Edge_CollabAR_TOC.pdf" target="_blank">[PDF]</a>
 </li>
 
 <li>
 Z. Liu, G. Lan, <b>J. Stojkovic</b>, Y. Zhang, C. Joe-Wong, M. Gorlatova. (April 2020). &quot;CollabAR: Edge-assisted Collaborative Image Recognition for Mobile Augmented Reality&quot;. <i>In Proceedings of the International Conference on Information Processing on Sensor Networks (IPSN)</i>.
-Paper: <a href="https://maria.gorlatova.com/wp-content/uploads/2020/02/IPSN2020_Collaborative_AR.pdf" target="_blank">[PDF]</a> <span style="color:blue">[Best Research Artifact Award] </span>
+Paper: <a href="../files/CollabAR_IPSN_Camera.pdf" target="_blank">[PDF]</a> <span style="color:blue">[Best Research Artifact Award] </span>
 </li>
   
 <li>
 <b>J. Stojkovic</b>, M. Misic, J. Protic. (November 2019). &quot;Collaboration Network Analysis of Scientific Production at UB-SEE&quot;.	<i>In 27th Telecommunications Forum (TELFOR)</i>.
-Paper: <a href="https://ieeexplore.ieee.org/abstract/document/8971212/" target="_blank">[PDF]</a>
+Paper: <a href="TELFOR_Camera" target="_blank">[PDF]</a>
 </li>
 
 </ol>
