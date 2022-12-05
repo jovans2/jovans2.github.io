@@ -21,7 +21,7 @@ author_profile: true
 <ol reversed>
 
 <li> <b>J. Stojkovic</b>, T. Xu, H. Franke, J. Torrellas. (February 2023). &quot;SpecFaaS: Accelerating Serverless Applications with Speculative Function Execution&quot;.	<i> To Appear In Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>.
-Paper: <a href="" target="_blank">[PDF]</a>.
+Paper: <a href="../files/SpecFaaS_HPCA_Camera.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>
 </li>
   
