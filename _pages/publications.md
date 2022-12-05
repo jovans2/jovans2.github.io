@@ -46,7 +46,7 @@ Paper: <a href="../files/CollabAR_IPSN_Camera.pdf" target="_blank">[PDF]</a> <sp
   
 <li>
 <b>J. Stojkovic</b>, M. Misic, J. Protic. (November 2019). &quot;Collaboration Network Analysis of Scientific Production at UB-SEE&quot;.	<i>In 27th Telecommunications Forum (TELFOR)</i>.
-Paper: <a href="TELFOR_Camera" target="_blank">[PDF]</a>
+Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 </li>
 
 </ol>
