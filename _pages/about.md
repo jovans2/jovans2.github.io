@@ -14,6 +14,6 @@ My research focus is on the cloud computing data platforms and deployment paradi
 
 
 I won the [Kenichi Miura Award (2022)](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/kenichi-miura-award) for excellence in High Performance Computing.
-Also, I was awarded student travel grants to attend MICRO'22 and ASPLOS'22 conferences.
+Also, I was awarded student travel grants to attend MICRO'22, ASPLOS'22,'23 and HPCA'23 conferences.
 I completed my undergraduate studies at [School of Electrical Engineering](https://www.etf.bg.ac.rs/en), University of Belgrade, Serbia. Every year (2017-2020), I won the award for the best student of Computer Engineering and Information Theory Department.
 
