@@ -51,27 +51,29 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 
 </ol>
 
-## Demo
+## Workshops, Posters, Demo
 
 <ol reversed>
-
+  
 <li>
-<b>J. Stojkovic</b>, Z. Liu, G. Lan, C. Joe-Wong, M. Gorlatova. (November 2019). &quot;Demo: Edge-assisted Collaborative Image Recognition for Augmented Reality&quot;. <i>In ACM Conference on Embedded Networked Sensor Systems (SenSys)</i>.
-Paper: <a href="https://maria.gorlatova.com/wp-content/uploads/2019/09/MultiUserAR_SenSysDemo_Gorlatova.pdf" target="_blank">[PDF]</a> 
+<b>J. Stojkovic</b>, C. Liu, M. Shahbaz, J. Torrellas. (March 2023). &quot;Hardware Support for Efficient and Secure Resource Harvesting in the Cloud&quot;. <i>Young Architect Workshop (YArch'23, in conjuction with ASPLOS'23)</i>.
 </li>
 
-</ol>
-
-## Posters
-
-<ol reversed>
-
+<li>
+<b>J. Stojkovic</b>, T. Xu, H. Franke, J. Torrellas (October 2022). &quot;Super Scalar Clouds&quot;. <i>7th Workshop on the Future of Computing Architectures (FOCA'22)</i>.
+</li>
+  
 <li>
 <b>J. Stojkovic</b>, J. Torrellas. (March 2022). &quot;Nested Elastic Cuckoo Page Tables&quot;. <i>NSF Arch-1 Workshop</i>.
 </li>
 
 <li>
 <b>J. Stojkovic</b>, G. Lan, M. Gorlatova. (July 2019). &quot;Edge Computing Platform for Collaborative Augmented Reality&quot;. <i>Duke Summer REU Symposium</i>.
+</li>
+
+<li>
+<b>J. Stojkovic</b>, Z. Liu, G. Lan, C. Joe-Wong, M. Gorlatova. (November 2019). &quot;Demo: Edge-assisted Collaborative Image Recognition for Augmented Reality&quot;. <i>In ACM Conference on Embedded Networked Sensor Systems (SenSys)</i>.
+Paper: <a href="https://maria.gorlatova.com/wp-content/uploads/2019/09/MultiUserAR_SenSysDemo_Gorlatova.pdf" target="_blank">[PDF]</a> 
 </li>
 
 </ol>
