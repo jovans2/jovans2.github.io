@@ -21,7 +21,7 @@ author_profile: true
 <ol reversed>
 
 <li> <b>J. Stojkovic</b>, T. Xu, H. Franke, J. Torrellas. (June 2023). &quot;MXFaaS: Resource Sharing in Serverless Environments for Parallelism and Efficiency&quot;.	<i>To Appear In Proceedings of the 50th International Symposium on Computer Architecture (ISCA)</i>.
-Paper: <a href="" target="_blank">[PDF]</a>.
+Paper: <a href="../files/MXFaaS_ISCA2023_Final.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>
 </li>
   
