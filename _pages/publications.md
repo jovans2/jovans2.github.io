@@ -33,12 +33,12 @@ Presentation: <a href="" target="_blank">[PDF]</a>
 
 <li> <b>J. Stojkovic</b>, T. Xu, H. Franke, J. Torrellas. (June 2023). &quot;MXFaaS: Resource Sharing in Serverless Environments for Parallelism and Efficiency&quot;.	<i>In Proceedings of the 50th International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/MXFaaS_ISCA2023_Final.pdf" target="_blank">[PDF]</a>.
-Presentation: <a href="" target="_blank">[PDF]</a>
+Presentation: <a href="../files/jovan_isca23_1_to_print.pdf" target="_blank">[PDF]</a>
 </li>
   
 <li> <b>J. Stojkovic</b>, C. Liu, M. Shahbaz, J. Torrellas. (June 2023). &quot;<span>&#181;</span>Manycore: A Cloud Native CPU for Tail at Scale&quot;.	<i>In Proceedings of the 50th International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/uManycore_ISCA2023_Final.pdf" target="_blank">[PDF]</a>.
-Presentation: <a href="" target="_blank">[PDF]</a> <span style="color:blue">[Selected as an Honorable Mention in IEEE Micro Top Picks from Computer Architecture Conferences] </span>
+Presentation: <a href="../files/jovan_isca23_2_to_print.pdf" target="_blank">[PDF]</a> <span style="color:blue">[Selected as an Honorable Mention in IEEE Micro Top Picks from Computer Architecture Conferences] </span>
 </li>
 
 <li> <b>J. Stojkovic</b>, T. Xu, H. Franke, J. Torrellas. (February 2023). &quot;SpecFaaS: Accelerating Serverless Applications with Speculative Function Execution&quot;.	<i>In Proceedings of the 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>.
