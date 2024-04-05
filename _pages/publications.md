@@ -77,6 +77,10 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 <ol reversed>
 
 <li>
+<b>J. Stojkovic</b>, T. Xu, H. Franke, J. Torrellas (April 2024). &quot;UniCache: The Next 700 Caches for Serverless Computing&quot;. <i>5th International Workshop on Cloud Intelligence / AIOps (AIOps'24, in conjuction with ASPLOS'24)</i>.
+</li>
+
+<li>
 N. Stojkovic, <b>J. Stojkovic</b> (April 2024). &quot;OasisRPC: Hiding the Overheads of RPCs in Microservice Environments&quot;. <i>Young Architect Workshop (YArch'24, in conjuction with ASPLOS'24)</i>.
 </li>
   
