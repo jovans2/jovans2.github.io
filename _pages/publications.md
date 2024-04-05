@@ -81,11 +81,11 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 </li>
 
 <li>
-N. Stojkovic, <b>J. Stojkovic</b> (April 2024). &quot;OasisRPC: Hiding the Overheads of RPCs in Microservice Environments&quot;. <i>Young Architect Workshop (YArch'24, in conjuction with ASPLOS'24)</i>.
+N. Stojkovic, <b>J. Stojkovic</b> (April 2024). &quot;OasisRPC: Hiding the Overheads of RPCs in Microservice Environments&quot;. <i>6th Young Architect Workshop (YArch'24, in conjuction with ASPLOS'24)</i>.
 </li>
   
 <li>
-<b>J. Stojkovic</b>, C. Liu, M. Shahbaz, J. Torrellas. (March 2023). &quot;Hardware Support for Efficient and Secure Resource Harvesting in the Cloud&quot;. <i>Young Architect Workshop (YArch'23, in conjuction with ASPLOS'23)</i>.
+<b>J. Stojkovic</b>, C. Liu, M. Shahbaz, J. Torrellas. (March 2023). &quot;Hardware Support for Efficient and Secure Resource Harvesting in the Cloud&quot;. <i>5th Young Architect Workshop (YArch'23, in conjuction with ASPLOS'23)</i>.
 </li>
 
 <li>
