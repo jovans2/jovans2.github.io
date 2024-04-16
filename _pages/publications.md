@@ -77,6 +77,10 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 <ol reversed>
 
 <li>
+<b>J. Stojkovic</b>, E. Choukse, C. Zhang, I. Goiri, J. Torrellas (April 2024). &quot;Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference&quot;. <i>9th Workshop on Energy Efficient Machine Learning and Cognitive Computing (EMC2 '24) in conjunction with ASPLOS'24</i>.
+</li>
+
+<li>
 <b>J. Stojkovic</b>, T. Xu, H. Franke, J. Torrellas (April 2024). &quot;UniCache: The Next 700 Caches for Serverless Computing&quot;. <i>5th International Workshop on Cloud Intelligence / AIOps (AIOps'24, in conjunction with ASPLOS'24)</i>.
 Paper: <a href="../files/CloudWorkshop_UniCache.pdf" target="_blank">[PDF]</a>.
 </li>
