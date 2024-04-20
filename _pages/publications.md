@@ -78,6 +78,7 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 
 <li>
 <b>J. Stojkovic</b>, E. Choukse, C. Zhang, I. Goiri, J. Torrellas (April 2024). &quot;Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference&quot;. <i>9th Workshop on Energy Efficient Machine Learning and Cognitive Computing (EMC2 '24) in conjunction with ASPLOS'24</i>.
+Paper: <a href="https://arxiv.org/abs/2403.20306" target="_blank">[PDF]</a>
 </li>
 
 <li>
