@@ -22,7 +22,7 @@ author_profile: true
 
 <li> <b>J. Stojkovic</b>, N. Iliakopoulou, T. Xu, H. Franke, J. Torrellas. (June 2024). &quot;EcoFaaS: Rethinking the Design of Serverless Environments for Energy Efficiency
 &quot;.	<i>To Appear In Proceedings of the 51th International Symposium on Computer Architecture (ISCA)</i>.
-Paper: <a href="" target="_blank">[PDF]</a>.
+Paper: <a href="../files/EcoFaaS_ISCA2024_Final.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>
 </li>
 
