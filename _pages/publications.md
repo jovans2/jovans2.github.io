@@ -27,7 +27,7 @@ Presentation: <a href="" target="_blank">[PDF]</a>
 </li>
 
 <li> <b>J. Stojkovic</b>, P. Misra, Í. Goiri, S. Whitlock, E. Choukse, M. Das, C. Bansal, J. Lee, Z. Sun, H. Qiu, R. Zimmermann, S. Samal, B. Warrier, A. Raniwala, R. Bianchini. (June 2024). &quot;SmartOClock: Workload- and Risk-Aware Overclocking in the Cloud&quot;.	<i>To Appear In Proceedings of the 51th International Symposium on Computer Architecture (ISCA)</i>.
-Paper: <a href="" target="_blank">[PDF]</a>.
+Paper: <a href="../files/SmartOClock_ISCA24_Final.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>
 </li>
 
