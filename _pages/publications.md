@@ -23,12 +23,12 @@ author_profile: true
 <li> <b>J. Stojkovic</b>, N. Iliakopoulou, T. Xu, H. Franke, J. Torrellas. (June 2024). &quot;EcoFaaS: Rethinking the Design of Serverless Environments for Energy Efficiency
 &quot;.	<i>To Appear In Proceedings of the 51th International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/EcoFaaS_ISCA2024_Final.pdf" target="_blank">[PDF]</a>.
-Presentation: <a href="" target="../files/ecofaas_presentation.pdf">[PDF]</a>
+Presentation: <a href="../files/ecofaas_presentation.pdf" target="_blank">[PDF]</a>
 </li>
 
 <li> <b>J. Stojkovic</b>, P. Misra, Í. Goiri, S. Whitlock, E. Choukse, M. Das, C. Bansal, J. Lee, Z. Sun, H. Qiu, R. Zimmermann, S. Samal, B. Warrier, A. Raniwala, R. Bianchini. (June 2024). &quot;SmartOClock: Workload- and Risk-Aware Overclocking in the Cloud&quot;.	<i>To Appear In Proceedings of the 51th International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/SmartOClock_ISCA24_Final.pdf" target="_blank">[PDF]</a>.
-Presentation: <a href="" target="../files/smartoclock_presentation.pdf">[PDF]</a>
+Presentation: <a href="../files/smartoclock_presentation.pdf" target="_blank">[PDF]</a>
 </li>
 
 <li> <b>J. Stojkovic</b>, T. Xu, H. Franke, J. Torrellas. (June 2023). &quot;MXFaaS: Resource Sharing in Serverless Environments for Parallelism and Efficiency&quot;.	<i>In Proceedings of the 50th International Symposium on Computer Architecture (ISCA)</i>.
