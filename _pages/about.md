@@ -13,7 +13,7 @@ I am Jovan Stojkovic, a fourth year PhD student at University of Illinois at Urb
 My research focus is on the cloud computing data platforms and deployment paradigms, such as microservices and serverless computing. I have been working on novel hardware and software abstractions in data-center architectures. I enjoy building systems and exploring ways to make them fast, reliable, and efficient in a holistic manner: from the hardware architecture up to the platform and application level. 
 
 I was selected for the [Mavis Future Faculty Fellowship (2024-2025)](https://mavis.grainger.illinois.edu/) to enhance my skills in research, teaching and mentoring as a future engineering faculty.
-I was selected as one of the 200 young researchers in computer science and mathematics worldwide invited to attend the
+I was selected as one of the 200 young researchers in computer science and mathematics worldwide invited to attend and one of the 30 researchers to present my work at the
 [11th Heidelberg Laureate Forum (2024)](https://www.heidelberg-laureate-forum.org/forum/11th-hlf-2024.html).
 I won the [Kenichi Miura Award (2022)](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/kenichi-miura-award) for excellence in High Performance Computing.
 Also, I was awarded student travel grants to attend MICRO'22, ASPLOS'22,'23, ISCA'23,'24 and HPCA'23 conferences.
