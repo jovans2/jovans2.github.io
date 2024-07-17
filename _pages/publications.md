@@ -20,13 +20,18 @@ author_profile: true
 
 <ol reversed>
 
+<li> <b>J. Stojkovic</b>, E. Choukse, E. Saurez, Í. Goiri, J. Torrellas. (November 2024). &quot;Mosaic: Harnessing Micro-architectural Resources of Servers in Serverless Environments&quot;.	<i>To Appear In Proceedings of the 57th International Symposium on Microarchitecture (MICRO)</i>.
+Paper: <a href="" target="_blank">[PDF]</a>.
+Presentation: <a href="" target="_blank">[PDF]</a>
+</li>
+
 <li> <b>J. Stojkovic</b>, N. Iliakopoulou, T. Xu, H. Franke, J. Torrellas. (June 2024). &quot;EcoFaaS: Rethinking the Design of Serverless Environments for Energy Efficiency
-&quot;.	<i>To Appear In Proceedings of the 51th International Symposium on Computer Architecture (ISCA)</i>.
+&quot;.	<i>In Proceedings of the 51th International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/EcoFaaS_ISCA2024_Final.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="../files/ecofaas_presentation.pdf" target="_blank">[PDF]</a>
 </li>
 
-<li> <b>J. Stojkovic</b>, P. Misra, Í. Goiri, S. Whitlock, E. Choukse, M. Das, C. Bansal, J. Lee, Z. Sun, H. Qiu, R. Zimmermann, S. Samal, B. Warrier, A. Raniwala, R. Bianchini. (June 2024). &quot;SmartOClock: Workload- and Risk-Aware Overclocking in the Cloud&quot;.	<i>To Appear In Proceedings of the 51th International Symposium on Computer Architecture (ISCA)</i>.
+<li> <b>J. Stojkovic</b>, P. Misra, Í. Goiri, S. Whitlock, E. Choukse, M. Das, C. Bansal, J. Lee, Z. Sun, H. Qiu, R. Zimmermann, S. Samal, B. Warrier, A. Raniwala, R. Bianchini. (June 2024). &quot;SmartOClock: Workload- and Risk-Aware Overclocking in the Cloud&quot;.	<i>Proceedings of the 51th International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/SmartOClock_ISCA24_Final.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="../files/smartoclock_presentation.pdf" target="_blank">[PDF]</a>
 </li>
@@ -78,7 +83,7 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 <ol reversed>
 
 <li>
-<b>J. Stojkovic</b>, E. Choukse, C. Zhang, I. Goiri, J. Torrellas (April 2024). &quot;Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference&quot;. <i>9th Workshop on Energy Efficient Machine Learning and Cognitive Computing (EMC2 '24) in conjunction with ASPLOS'24</i>.
+<b>J. Stojkovic</b>, E. Choukse, C. Zhang, Í. Goiri, J. Torrellas (April 2024). &quot;Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference&quot;. <i>9th Workshop on Energy Efficient Machine Learning and Cognitive Computing (EMC2 '24) in conjunction with ASPLOS'24</i>.
 Paper: <a href="https://arxiv.org/abs/2403.20306" target="_blank">[PDF]</a>
 </li>
 
