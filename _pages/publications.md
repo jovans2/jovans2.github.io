@@ -21,7 +21,7 @@ author_profile: true
 <ol reversed>
 
 <li> <b>J. Stojkovic</b>, E. Choukse, E. Saurez, Í. Goiri, J. Torrellas. (November 2024). &quot;Mosaic: Harnessing Micro-architectural Resources of Servers in Serverless Environments&quot;.	<i>To Appear In Proceedings of the 57th International Symposium on Microarchitecture (MICRO)</i>.
-Paper: <a href="" target="_blank">[PDF]</a>.
+Paper: <a href="../files/Mosaic_MICRO.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>
 </li>
 
