@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span style="color:red;">
-I am graduating in 2025 and actively seeking academic positions. Please feel free to reach out to discuss potential opportunities. Thank you!
+I am on the academic job market. Please feel free to reach out to discuss potential opportunities. Thank you!
 </span>
 
 I am Jovan Stojkovic, a fifth year PhD student at University of Illinois at Urbana-Champaign. I am part of [i-acoma group](http://iacoma.cs.uiuc.edu/) led by professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). 
