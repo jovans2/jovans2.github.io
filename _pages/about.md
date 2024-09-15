@@ -14,7 +14,11 @@ I am on the academic job market. Please feel free to reach out to discuss potent
 
 I am Jovan Stojkovic, a fifth year PhD student at University of Illinois at Urbana-Champaign. I am part of [i-acoma group](http://iacoma.cs.uiuc.edu/) led by professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). 
 
+My research focus is on the cloud platforms and emerging deployment paradigms, such as microservices and serverless computing. These workloads promise great scalability, simple programming model, and cost-effective billing model. However, their characteristics significantly differ from traditional cloud applications. Therefore,  current cloud-native environments have multiple overheads that undermine the performance and usability of such systems for latency-critical applications. Given the increasing importance of these workloads, my goal is to design novel hardware platforms and software stacks that enable the execution of such distributed services with orders of magnitude better performance and energy efficiency. The introduced capability would enhance the cloud, paving the way for truly ubiquitous computing: where computing systems are *readily accessible and effectively utilized by anyone, from anywhere*.
+
+<!---
 My research focus is on the cloud computing data platforms and deployment paradigms, such as microservices and serverless computing. I have been working on novel hardware and software abstractions in data-center architectures. I enjoy building systems and exploring ways to make them fast, reliable, and efficient in a holistic manner: from the hardware architecture up to the platform and application level. 
+-->
 
 I was selected for the [Mavis Future Faculty Fellowship (2024-2025)](https://mavis.grainger.illinois.edu/) to enhance my skills in research, teaching and mentoring as a future engineering faculty.
 I was selected as one of the 200 young researchers in computer science and mathematics worldwide invited to attend and one of the 30 researchers to present my work at the
