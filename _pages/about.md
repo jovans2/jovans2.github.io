@@ -12,7 +12,7 @@ redirect_from:
 I am on the academic job market. Please feel free to reach out to discuss potential opportunities. Thank you!
 </span>
 
-I am Jovan Stojkovic, a fifth year PhD student at University of Illinois at Urbana-Champaign. I am part of [i-acoma group](http://iacoma.cs.uiuc.edu/) led by professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). 
+I am Jovan Stojkovic, a fifth year PhD student at the University of Illinois at Urbana-Champaign, and a member of [i-acoma group](http://iacoma.cs.uiuc.edu/) led by professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). 
 
 My research focus is on the cloud platforms and emerging deployment paradigms, such as microservices and serverless computing. These workloads promise great scalability, simple programming model, and cost-effective billing model. However, their characteristics significantly differ from traditional cloud applications, leading to inefficiencies in current cloud-native environments. As these paradigms become more important, my goal is to design novel hardware platforms and software stacks that enable their execution with orders of magnitude better performance, energy, and resource efficiency. The introduced capability would enhance the cloud, paving the way for truly ubiquitous computing: where computing systems are *readily accessible and effectively utilized by anyone, from anywhere*.
 
