@@ -87,7 +87,7 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 </li>
 
 <li>
-L. Huang, A. Parayil, J. Zhang, X. Qin, C. Bansal, <b>J. Stojkovic</b>, P. Zardoshti, P. Misra, E. Cortez, R. Ghelman, I. Goiri, S. Rajmohan, J. Kleewein, R. Fonseca, T. Zhu, R. Bianchini (April 2024). &quot;Workload Intelligence: Punching Holes Through the Cloud Abstraction&quot;. <i>CoRR, vol. abs/2404.19143</i>. Paper: <a href="https://arxiv.org/abs/2404.19143" target="_blank">[PDF]</a>
+L. Huang, A. Parayil, J. Zhang, X. Qin, C. Bansal, <b>J. Stojkovic</b>, P. Zardoshti, P. Misra, E. Cortez, R. Ghelman, Í. Goiri, S. Rajmohan, J. Kleewein, R. Fonseca, T. Zhu, R. Bianchini (April 2024). &quot;Workload Intelligence: Punching Holes Through the Cloud Abstraction&quot;. <i>CoRR, vol. abs/2404.19143</i>. Paper: <a href="https://arxiv.org/abs/2404.19143" target="_blank">[PDF]</a>
 </li>
 
 </ol>
