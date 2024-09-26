@@ -5,9 +5,7 @@ Contrary to long-running monolithic applications, microservice environments exec
 functions that only interact with one another via remote procedure calls  and are subject to stringent tail-latency constraints.
 During the third year of my PhD, I designed 1) an architecture optimized for cloud-native environments that 
 minimizes unnecessary architecture and removes contention hot-spots that degrade the tail latency
-(<span>&#181;</span>Manycore, ISCA'23), and 2) a processor architecture that enables efficient and  
-secure resource harvesting in the cloud (<span>&#181;</span>Harvest, YArch'23). During the fourth year of my PhD, I have been working on 1) a hardware-software co-design that improves micro-architectural resource utilization in microservice/serverless environments (Mosaic, MICRO '24), 
-and 2) a hardware cache coherence protocol that enables servers running microservices to scale to thousands of cores.
+(<span>&#181;</span>Manycore, ISCA'23), and 2) a processor architecture that enables efficient and secure resource harvesting in the cloud (<span>&#181;</span>Harvest, YArch'23). During the fourth year of my PhD, I have been working on 1) a hardware-software co-design that improves micro-architectural resource utilization in microservice/serverless environments (Mosaic, MICRO '24), and 2) a hardware cache coherence protocol that enables servers running microservices to scale to thousands of cores.
 
 ## High-Performant Serverless Computing (UIUC, IBM, and Microsoft) 
 
