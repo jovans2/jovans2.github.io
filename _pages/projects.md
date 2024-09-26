@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
 ## Hardware Support for Microservices in the Cloud (UIUC)
 
 Current processors are not designed for microservices, an  emerging cloud-computing paradigm. 
