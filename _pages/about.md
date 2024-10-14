@@ -16,12 +16,6 @@ I am Jovan Stojkovic, a fifth year PhD student at the University of Illinois at 
 
 My research focus is on the cloud platforms and emerging deployment paradigms, such as microservices and serverless computing. These workloads promise great scalability, simple programming model, and cost-effective billing model. However, their characteristics significantly differ from traditional cloud applications, leading to inefficiencies in current cloud environments. As these paradigms become more important, my goal is to design novel hardware platforms and software stacks that enable their execution with orders of magnitude better performance, energy, and resource efficiency. 
 
-<!---
-The introduced capability would enhance the cloud, paving the way for truly ubiquitous computing: where computing systems are *readily accessible and effectively utilized by anyone, from anywhere*.
-
-My research focus is on the cloud computing data platforms and deployment paradigms, such as microservices and serverless computing. I have been working on novel hardware and software abstractions in data-center architectures. I enjoy building systems and exploring ways to make them fast, reliable, and efficient in a holistic manner: from the hardware architecture up to the platform and application level. 
--->
-
 I was selected for the [Mavis Future Faculty Fellowship (2024-2025)](https://mavis.grainger.illinois.edu/) to enhance my skills in research, teaching and mentoring as a future engineering faculty.
 I was selected as one of the 200 young researchers in computer science and mathematics worldwide invited to attend and one of the 30 researchers to present my work at the
 [11th Heidelberg Laureate Forum (2024)](https://www.heidelberg-laureate-forum.org/forum/11th-hlf-2024.html).
