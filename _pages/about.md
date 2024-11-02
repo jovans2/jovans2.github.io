@@ -20,6 +20,6 @@ I was selected for the [Mavis Future Faculty Fellowship (2024-2025)](https://mav
 I was selected as one of the 200 young researchers in computer science and mathematics worldwide invited to attend and one of the 30 researchers to present my work at the
 [11th Heidelberg Laureate Forum (2024)](https://www.heidelberg-laureate-forum.org/forum/11th-hlf-2024.html).
 I won the [Kenichi Miura Award (2022)](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/kenichi-miura-award) for excellence in High Performance Computing.
-Also, I was awarded student travel grants to attend MICRO'22, ASPLOS'22,'23, ISCA'23,'24 and HPCA'23 conferences.
+Also, I was awarded student travel grants to attend MICRO'22,'24; ASPLOS'22,'23; ISCA'23,'24; and HPCA'23 conferences.
 I completed my undergraduate studies at [School of Electrical Engineering](https://www.etf.bg.ac.rs/en), University of Belgrade, Serbia. Every year (2017-2020), I won the award for the best student of Computer Engineering and Information Theory Department.
 
