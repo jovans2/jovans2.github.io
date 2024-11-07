@@ -30,7 +30,7 @@ author_profile: true
 
 <li> <b>J. Stojkovic</b>, E. Choukse, E. Saurez, Í. Goiri, J. Torrellas. (November 2024). &quot;Mosaic: Harnessing the Micro-architectural Resources of Servers in Serverless Environments&quot;.	<i>In Proceedings of the 57th International Symposium on Microarchitecture (MICRO)</i>.
 Paper: <a href="../files/Mosaic_MICRO.pdf" target="_blank">[PDF]</a>.
-Presentation: <a href="" target="_blank">[PDF]</a>
+Presentation: <a href="../files/mosaic_micro_presentation.pdf" target="_blank">[PDF]</a>
 </li>
 
 <li> <b>J. Stojkovic</b>, N. Iliakopoulou, T. Xu, H. Franke, J. Torrellas. (June 2024). &quot;EcoFaaS: Rethinking the Design of Serverless Environments for Energy Efficiency
