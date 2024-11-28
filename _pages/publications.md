@@ -91,6 +91,10 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 <ol reversed>
 
 <li>
+N. Iliakopoulou, <b>J. Stojkovic</b>, C. Alverti, T. Xu, H. Franke, J. Torrellas. (November 2024). &quot;Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments&quot;. <i>CoRR, vol. abs/2411.17741 </i>. Paper: <a href="https://arxiv.org/abs/2411.17741" target="_blank">[PDF]</a>
+</li>
+
+<li>
 <b>J. Stojkovic</b>, C. Zhang, Í. Goiri, J. Torrellas, E. Choukse. (August 2024). &quot;DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency&quot;. <i>CoRR, vol. abs/2408.00741</i>. Paper: <a href="https://arxiv.org/abs/2408.00741" target="_blank">[PDF]</a>
 </li>
 
