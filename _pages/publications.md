@@ -91,6 +91,10 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 <ol reversed>
 
 <li>
+<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, E. Choukse, H. Qiu, R. Fonseca, J. Torrellas, R. Bianchini. (January 2025). &quot;TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms&quot;. <i>CoRR, vol. abs/2501.02600</i>. Paper: <a href="https://arxiv.org/abs/2501.02600" target="_blank">[PDF]</a>
+</li>
+
+<li>
 N. Iliakopoulou, <b>J. Stojkovic</b>, C. Alverti, T. Xu, H. Franke, J. Torrellas. (November 2024). &quot;Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments&quot;. <i>CoRR, vol. abs/2411.17741 </i>. Paper: <a href="https://arxiv.org/abs/2411.17741" target="_blank">[PDF]</a>
 </li>
 
