@@ -21,7 +21,7 @@ author_profile: true
 <ol reversed>
 
 <li>
-<b>J. Stojkovic</b>, C. Alverti, A. Andrade, N. Iliakopoulou, T. Xu, H. Franke, J. Torrellas. (March 2025). &quot;Concord: Rethinking Distributed Coherence for Software Caches in Serverless Environments&quot;. <i>To Appear in Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>. Paper: <a href="_blank" target="_blank">[PDF]</a>
+<b>J. Stojkovic</b>, C. Alverti, A. Andrade, N. Iliakopoulou, T. Xu, H. Franke, J. Torrellas. (March 2025). &quot;Concord: Rethinking Distributed Coherence for Software Caches in Serverless Environments&quot;. <i>To Appear in Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>. Paper: <a href="../files/Concord_HPCA25.pdf" target="_blank">[PDF]</a>
 </li>
 
 <li>
