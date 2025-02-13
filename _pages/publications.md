@@ -21,7 +21,7 @@ author_profile: true
 <ol reversed>
 
 <li>
-<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, E. Choukse, H. Qiu, R. Fonseca, J. Torrellas, R. Bianchini. (April 2025). &quot;TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms&quot;. <i>To Appear in Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>. Paper: <a href="_blank" target="_blank">[PDF]</a>. Presentation: <a href="_blank" target="_blank">[PDF]</a>.
+<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, E. Choukse, H. Qiu, R. Fonseca, J. Torrellas, R. Bianchini. (April 2025). &quot;TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms&quot;. <i>To Appear in Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>. Paper: <a href="../files/TAPAS_ASPLOS25.pdf" target="_blank">[PDF]</a>. Presentation: <a href="_blank" target="_blank">[PDF]</a>.
 </li>
 
 <li>
