@@ -20,16 +20,21 @@ author_profile: true
 
 <ol reversed>
 
+<li> <b>J. Stojkovic</b>, C. Liu, M. Shahbaz, J. Torrellas. (June 2025). &quot;HardHarvest: Hardware-Supported Core Harvesting for Microservices&quot;.	<i>To Appear in Proceedings of the 52nd International Symposium on Computer Architecture (ISCA)</i>.
+Paper: <a href="_blank" target="_blank">[PDF]</a>.
+Presentation: <a href="_blank" target="_blank">[PDF]</a>
+</li>
+
 <li>
 <b>J. Stojkovic</b>, C. Zhang, Í. Goiri, E. Choukse, H. Qiu, R. Fonseca, J. Torrellas, R. Bianchini. (April 2025). &quot;TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms&quot;. <i>To Appear in Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>. Paper: <a href="../files/TAPAS_ASPLOS25.pdf" target="_blank">[PDF]</a>. Presentation: <a href="_blank" target="_blank">[PDF]</a>.
 </li>
 
 <li>
-<b>J. Stojkovic</b>, C. Alverti, A. Andrade, N. Iliakopoulou, T. Xu, H. Franke, J. Torrellas. (March 2025). &quot;Concord: Rethinking Distributed Coherence for Software Caches in Serverless Environments&quot;. <i>To Appear in Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>. Paper: <a href="../files/Concord_HPCA25.pdf" target="_blank">[PDF]</a>. Presentation: <a href="../files/concord_hpca_pdf.pdf" target="_blank">[PDF]</a>.
+<b>J. Stojkovic</b>, C. Alverti, A. Andrade, N. Iliakopoulou, T. Xu, H. Franke, J. Torrellas. (March 2025). &quot;Concord: Rethinking Distributed Coherence for Software Caches in Serverless Environments&quot;. <i>In Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>. Paper: <a href="../files/Concord_HPCA25.pdf" target="_blank">[PDF]</a>. Presentation: <a href="../files/concord_hpca_pdf.pdf" target="_blank">[PDF]</a>.
 </li>
 
 <li>
-<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, J. Torrellas, E. Choukse. (March 2025). &quot;DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency&quot;. <i>To Appear in Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>. Paper: <a href="../files/DynamoLLM_HPCA2025.pdf" target="_blank">[PDF]</a>. Presentation: <a href="../files/dynamo_hpca_pdf.pdf" target="_blank">[PDF]</a>.  <span style="color:blue">[Best Paper Award] </span>
+<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, J. Torrellas, E. Choukse. (March 2025). &quot;DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency&quot;. <i>In Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>. Paper: <a href="../files/DynamoLLM_HPCA2025.pdf" target="_blank">[PDF]</a>. Presentation: <a href="../files/dynamo_hpca_pdf.pdf" target="_blank">[PDF]</a>.  <span style="color:blue">[Best Paper Award] </span>
 </li>
 
 <li> <b>J. Stojkovic</b>, E. Choukse, E. Saurez, Í. Goiri, J. Torrellas. (November 2024). &quot;Mosaic: Harnessing the Micro-architectural Resources of Servers in Serverless Environments&quot;.	<i>In Proceedings of the 57th International Symposium on Microarchitecture (MICRO)</i>.
