@@ -34,7 +34,7 @@ Presentation: <a href="_blank" target="_blank">[PDF]</a>
 </li>
 
 <li>
-<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, J. Torrellas, E. Choukse. (March 2025). &quot;DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency&quot;. <i>In Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>. Paper: <a href="../files/DynamoLLM_HPCA2025.pdf" target="_blank">[PDF]</a>. Presentation: <a href="../files/dynamo_hpca_pdf.pdf" target="_blank">[PDF]</a>.  <span style="color:blue">[Best Paper Award] </span>
+<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, J. Torrellas, E. Choukse. (March 2025). &quot;DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency&quot;. <i>In Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>. Paper: <a href="../files/DynamoLLM_HPCA2025.pdf" target="_blank">[PDF]</a>. Presentation: <a href="../files/dynamo_hpca_pdf.pdf" target="_blank">[PDF]</a>.  <span style="color:blue">[Selected as the Best Paper Award] </span>
 </li>
 
 <li> <b>J. Stojkovic</b>, E. Choukse, E. Saurez, Í. Goiri, J. Torrellas. (November 2024). &quot;Mosaic: Harnessing the Micro-architectural Resources of Servers in Serverless Environments&quot;.	<i>In Proceedings of the 57th International Symposium on Microarchitecture (MICRO)</i>.
@@ -85,7 +85,7 @@ Paper: <a href="../files/Edge_CollabAR_TOC.pdf" target="_blank">[PDF]</a>
 
 <li>
 Z. Liu, G. Lan, <b>J. Stojkovic</b>, Y. Zhang, C. Joe-Wong, M. Gorlatova. (April 2020). &quot;CollabAR: Edge-assisted Collaborative Image Recognition for Mobile Augmented Reality&quot;. <i>In Proceedings of the International Conference on Information Processing on Sensor Networks (IPSN)</i>.
-Paper: <a href="../files/CollabAR_IPSN_Camera.pdf" target="_blank">[PDF]</a> <span style="color:blue">[Best Research Artifact Award] </span>
+Paper: <a href="../files/CollabAR_IPSN_Camera.pdf" target="_blank">[PDF]</a> <span style="color:blue">[Selected as the Best Research Artifact Award] </span>
 </li>
   
 <li>
