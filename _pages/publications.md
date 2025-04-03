@@ -20,12 +20,12 @@ author_profile: true
 
 <ol reversed>
 
-<li> <b>J. Stojkovic</b>, C. Liu, M. Shahbaz, J. Torrellas. (June 2025). &quot;HardHarvest: Hardware-Supported Core Harvesting for Microservices&quot;.	<i>To Appear in Proceedings of the 52nd International Symposium on Computer Architecture (ISCA)</i>.
+<li> S. Chai, J. Zhang, J. Kim, A. Wang, F. Chung, <b>J. Stojkovic</b>, W. Jia, D. Skarlatos, J. Torrellas, T. Xu. (July 2025). &quot;EMT: An OS Framework for New Memory Translation Architectures&quot;.	<i>To Appear in Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>.
 Paper: <a href="_blank" target="_blank">[PDF]</a>.
 Presentation: <a href="_blank" target="_blank">[PDF]</a>
 </li>
 
-<li> S. Chai, J. Zhang, J. Kim, A. Wang, F. Chung, <b>J. Stojkovic</b>, W. Jia, D. Skarlatos, J. Torrellas, T. Xu. (July 2025). &quot;EMT: An OS Framework for New Memory Translation Architectures&quot;.	<i>To Appear in Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>.
+<li> <b>J. Stojkovic</b>, C. Liu, M. Shahbaz, J. Torrellas. (June 2025). &quot;HardHarvest: Hardware-Supported Core Harvesting for Microservices&quot;.	<i>To Appear in Proceedings of the 52nd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="_blank" target="_blank">[PDF]</a>.
 Presentation: <a href="_blank" target="_blank">[PDF]</a>
 </li>
