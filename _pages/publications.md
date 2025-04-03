@@ -25,8 +25,13 @@ Paper: <a href="_blank" target="_blank">[PDF]</a>.
 Presentation: <a href="_blank" target="_blank">[PDF]</a>
 </li>
 
+<li> S. Chai, J. Zhang, J. Kim, A. Wang, F. Chung, <b>J. Stojkovic</b>, W. Jia, D. Skarlatos, J. Torrellas, T. Xu. (July 2025). &quot;EMT: An OS Framework for New Memory Translation Architectures&quot;.	<i>To Appear in Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>.
+Paper: <a href="_blank" target="_blank">[PDF]</a>.
+Presentation: <a href="_blank" target="_blank">[PDF]</a>
+</li>
+
 <li>
-<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, E. Choukse, H. Qiu, R. Fonseca, J. Torrellas, R. Bianchini. (April 2025). &quot;TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms&quot;. <i>To Appear in Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>. Paper: <a href="../files/TAPAS_ASPLOS25.pdf" target="_blank">[PDF]</a>. Presentation: <a href="_blank" target="_blank">[PDF]</a>.
+<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, E. Choukse, H. Qiu, R. Fonseca, J. Torrellas, R. Bianchini. (April 2025). &quot;TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms&quot;. <i>In Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>. Paper: <a href="../files/TAPAS_ASPLOS25.pdf" target="_blank">[PDF]</a>. Presentation: <a href="../files/jovan_tapas_asplos.pdf" target="_blank">[PDF]</a>.
 </li>
 
 <li>
