@@ -127,6 +127,10 @@ L. Huang, A. Parayil, J. Zhang, X. Qin, C. Bansal, <b>J. Stojkovic</b>, P. Zardo
 <ol reversed>
 
 <li>
+N. Iliakopoulou, <b>J. Stojkovic</b>, C. Alverti, T. Xu, H. Franke, J. Torrellas. (April 2025). &quot;Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments&quot;. <i>7th Young Architect Workshop (YArch'25, in conjunction with ASPLOS'25)</i>.
+</li>
+
+<li>
 <b>J. Stojkovic</b>, E. Choukse, C. Zhang, Í. Goiri, J. Torrellas (April 2024). &quot;Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference&quot;. <i>9th Workshop on Energy Efficient Machine Learning and Cognitive Computing (EMC2 '24) in conjunction with ASPLOS'24</i>.
 Paper: <a href="https://arxiv.org/abs/2403.20306" target="_blank">[PDF]</a>
 </li>
