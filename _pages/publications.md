@@ -26,7 +26,7 @@ Presentation: <a href="_blank" target="_blank">[PDF]</a>
 </li>
 
 <li> <b>J. Stojkovic</b>, C. Liu, M. Shahbaz, J. Torrellas. (June 2025). &quot;HardHarvest: Hardware-Supported Core Harvesting for Microservices&quot;.	<i>To Appear in Proceedings of the 52nd International Symposium on Computer Architecture (ISCA)</i>.
-Paper: <a href="_blank" target="_blank">[PDF]</a>.
+Paper: <a href="../files/HardHarvest_ISCA25.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="_blank" target="_blank">[PDF]</a>
 </li>
 
