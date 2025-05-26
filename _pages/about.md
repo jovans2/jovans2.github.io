@@ -20,7 +20,7 @@ Cloud-native workloads represent a shift in how services are deployed and manage
 
 In parallel, I focus on the rapidly growing demands of ML inference, especially the inference of generative LLMs. These models now serve latency-sensitive applications under strict Service Level Objectives (SLOs), often relying on power-hungry GPUs to meet performance demands. This has led to a dramatic rise in power draw and energy consumption from inference clusters. My work addresses this challenge through smart scheduling, workload placement, and system-level configuration tuning to reduce energy, power, and thermal overheads—while maintaining performance and accuracy guarantees.
 
-<img src="../files/note_students.png" alt="Note to prospective students" style="width:50%;" />
+<img src="../files/note_students.png" alt="Note to prospective students" style="width:30%;" />
 
 My work was recognized with an [HPCA Best Paper Award](https://jovans2.github.io/files/DynamoLLM_HPCA2025.pdf) and an [IEEE MICRO Top Picks Honorable Mention](https://jovans2.github.io/files/uManycore_ISCA2023_Final.pdf). I filed six patents with IBM and Microsoft for my work in serverless software stack design, processor overclocking in the cloud, and energy management for LLM inference workloads in the cloud.
 I was awarded the [W. J. Poppelbaum Memorial Award](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/w-j-poppelbaum-memorial-award) for achievements in computer hardware and architecture, based on academic performance and design creativity.
