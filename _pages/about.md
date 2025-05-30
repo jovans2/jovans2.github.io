@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Jovan Stojkovic, an incoming Assistant Professor at the Department of Computer Science at the University of Texas at Austin. **I will join UT Austin in Fall 2026, and I am looking for prospective PhD students.** 
+**I will join UT Austin as an Assistant Professor in Fall 2026, and I am looking for prospective PhD students.** 
+
+I am Jovan Stojkovic, an incoming Assistant Professor at the Department of Computer Science at the University of Texas at Austin.
 Currently, I am completing my PhD at the University of Illinois at Urbana-Champaign being advised by professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html).
 
 <!-- 
