@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Jovan Stojkovic, a fifth year PhD student at the University of Illinois at Urbana-Champaign, and a member of [i-acoma group](http://iacoma.cs.uiuc.edu/) led by professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html).
+I am Jovan Stojkovic, an incoming Assistant Professor at the Department of Computer Science at the University of Texas at Austin. **I will join UT Austin in Fall 2026, and I am looking for prospective PhD students.** 
+Currently, I am completing my PhD at the University of Illinois at Urbana-Champaign being advised by professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html).
 
 <!-- 
 My research focus is on the cloud platforms and emerging deployment paradigms, such as microservices and serverless computing. These workloads promise great scalability, simple programming model, and cost-effective billing model. However, their characteristics significantly differ from traditional cloud applications, leading to inefficiencies in current cloud environments. As these paradigms become more important, my goal is to design novel hardware platforms and software stacks that enable their execution with orders of magnitude better performance, energy, and resource efficiency. 
@@ -20,9 +21,7 @@ Cloud-native workloads represent a shift in how services are deployed and manage
 
 In parallel, I focus on the rapidly growing demands of ML inference, especially the inference of generative LLMs. These models now serve latency-sensitive applications under strict Service Level Objectives (SLOs), often relying on power-hungry GPUs to meet performance demands. This has led to a dramatic rise in power draw and energy consumption from inference clusters. My work addresses this challenge through smart scheduling, workload placement, and system-level configuration tuning to reduce energy, power, and thermal overheads—while maintaining performance and accuracy guarantees.
 
-<!-- 
 <img src="../files/note_students.png" alt="Note to prospective students" style="width:40%;" />
---->
 
 My work was recognized with an [HPCA Best Paper Award](https://jovans2.github.io/files/DynamoLLM_HPCA2025.pdf) and an [IEEE MICRO Top Picks Honorable Mention](https://jovans2.github.io/files/uManycore_ISCA2023_Final.pdf). I filed six patents with IBM and Microsoft for my work in serverless software stack design, processor overclocking in the cloud, and energy management for LLM inference workloads in the cloud.
 I was awarded the [W. J. Poppelbaum Memorial Award](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/w-j-poppelbaum-memorial-award) for achievements in computer hardware and architecture, based on academic performance and design creativity.
