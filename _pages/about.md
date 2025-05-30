@@ -11,7 +11,7 @@ redirect_from:
 **I will join UT Austin as an Assistant Professor in Fall 2026, and I am looking for prospective PhD students.** 
 
 I am Jovan Stojkovic, an incoming Assistant Professor at the Department of Computer Science at the University of Texas at Austin.
-Currently, I am completing my PhD at the University of Illinois at Urbana-Champaign being advised by professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html).
+I have completed my PhD at the University of Illinois at Urbana-Champaign, advised by professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html).
 
 <!-- 
 My research focus is on the cloud platforms and emerging deployment paradigms, such as microservices and serverless computing. These workloads promise great scalability, simple programming model, and cost-effective billing model. However, their characteristics significantly differ from traditional cloud applications, leading to inefficiencies in current cloud environments. As these paradigms become more important, my goal is to design novel hardware platforms and software stacks that enable their execution with orders of magnitude better performance, energy, and resource efficiency. 
