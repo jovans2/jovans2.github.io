@@ -20,7 +20,7 @@ My research focuses on **cloud computing and datacenters**, with two primary dom
 --->
 
 
-My research focuses on **cloud computing and datacenters**, with two primary application domains:
+My research focuses on **cloud computing and datacenters**, with two primary domains:
 
 1. ☁️ **Cloud-native workloads**, such as *microservices* and *serverless computing*
 2. 🤖 **Machine Learning (ML) inference**, particularly *large language models (LLMs)*
