@@ -25,6 +25,7 @@ In parallel, I focus on the rapidly growing demands of ML inference, especially 
 
 <img src="../files/note_utstudents.png" alt="Note to prospective students" style="width:40%;" />
 
+<!-- 
 My work was recognized with an [HPCA Best Paper Award](https://jovans2.github.io/files/DynamoLLM_HPCA2025.pdf) and an [IEEE MICRO Top Picks Honorable Mention](https://jovans2.github.io/files/uManycore_ISCA2023_Final.pdf). I filed six patents with IBM and Microsoft for my work in serverless software stack design, processor overclocking in the cloud, and energy management for LLM inference workloads in the cloud.
 I was awarded the [W. J. Poppelbaum Memorial Award](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/w-j-poppelbaum-memorial-award) for achievements in computer hardware and architecture, based on academic performance and design creativity.
 I was selected for the [Mavis Future Faculty Fellowship (2024-2025)](https://mavis.grainger.illinois.edu/) to enhance my skills in research, teaching and mentoring as a future engineering faculty.
@@ -32,6 +33,21 @@ I was invited as one of the 30 young researchers in computer science and mathema
 [11th Heidelberg Laureate Forum (2024)](https://www.heidelberg-laureate-forum.org/forum/11th-hlf-2024.html).
 I won the [Kenichi Miura Award (2022)](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/kenichi-miura-award) for excellence in High Performance Computing.
 I was awarded multiple student travel grants to attend ISCA, MICRO, ASPLOS, and HPCA conferences.
+--->
+
+### 🏆 Selected Honors and Awards
+
+- 🥇 [HPCA Best Paper Award (2025)](https://jovans2.github.io/files/DynamoLLM_HPCA2025.pdf)
+- 🎖️ [IEEE MICRO Top Picks Honorable Mention](https://jovans2.github.io/files/uManycore_ISCA2023_Final.pdf)
+- 🧠 6 patents with IBM and Microsoft on:
+  - Serverless systems
+  - Processor overclocking in the cloud
+  - Energy-efficient LLM inference
+- 💡 [W. J. Poppelbaum Memorial Award](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/w-j-poppelbaum-memorial-award) for hardware and architecture innovation
+- 🧑‍🏫 [Mavis Future Faculty Fellowship (2024–2025)](https://mavis.grainger.illinois.edu/)
+- 🌍 Invited to present at [11th Heidelberg Laureate Forum (2024)](https://www.heidelberg-laureate-forum.org/forum/11th-hlf-2024.html)
+- 🚀 [Kenichi Miura Award (2022)](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/kenichi-miura-award) for excellence in High Performance Computing
+- ✈️ Multiple student travel grants to ISCA, MICRO, ASPLOS, and HPCA
 
 I completed my undergraduate studies at [School of Electrical Engineering](https://www.etf.bg.ac.rs/en), University of Belgrade, Serbia. Every year (2017-2020), I was recognized as the best student of Computer Engineering and Information Theory Department.
 
