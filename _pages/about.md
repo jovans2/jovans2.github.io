@@ -16,7 +16,7 @@ I have completed my PhD at the University of Illinois at Urbana-Champaign, advis
 <!-- 
 My research focus is on the cloud platforms and emerging deployment paradigms, such as microservices and serverless computing. These workloads promise great scalability, simple programming model, and cost-effective billing model. However, their characteristics significantly differ from traditional cloud applications, leading to inefficiencies in current cloud environments. As these paradigms become more important, my goal is to design novel hardware platforms and software stacks that enable their execution with orders of magnitude better performance, energy, and resource efficiency. 
 
-My research focuses on **cloud computing and datacenters**, with two primary application domains: (1) *cloud-native* workloads such as microservices and serverless computing, and (2) *machine learning (ML) inference*, particularly large language models (LLMs).
+My research focuses on **cloud computing and datacenters**, with two primary domains: (1) *cloud-native* workloads such as microservices and serverless computing, and (2) *machine learning (ML) inference*, particularly large language models (LLMs).
 --->
 
 
