@@ -20,12 +20,17 @@ author_profile: true
 
 <ol reversed>
 
+<li> L. Huang, A. Parayil, J. Zhang, X. Qin, C. Bansal, <b>J. Stojkovic</b>, P. Zardoshti, P. Misra, E. Cortez, R. Ghelman, Í. Goiri, S. Rajmohan, J. Kleewein, R. Fonseca, T. Zhu, R. Bianchini. (November 2025). &quot;Workload Sage: Workload-Aware IaaS abstraction for Cloud Efficiency&quot;. <i>To Appear In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</i>.
+Paper: <a href="_blank" target="_blank">[PDF]</a>.
+Presentation: <a href="_blank" target="_blank">[PDF]</a>
+</li>
+
 <li> S. Chai, J. Zhang, J. Kim, A. Wang, F. Chung, <b>J. Stojkovic</b>, W. Jia, D. Skarlatos, J. Torrellas, T. Xu. (July 2025). &quot;EMT: An OS Framework for New Memory Translation Architectures&quot;.	<i>To Appear in Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>.
 Paper: <a href="../files/emt_osdi2025.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="_blank" target="_blank">[PDF]</a>
 </li>
 
-<li> <b>J. Stojkovic</b>, C. Liu, M. Shahbaz, J. Torrellas. (June 2025). &quot;HardHarvest: Hardware-Supported Core Harvesting for Microservices&quot;.	<i>To Appear in Proceedings of the 52nd International Symposium on Computer Architecture (ISCA)</i>.
+<li> <b>J. Stojkovic</b>, C. Liu, M. Shahbaz, J. Torrellas. (June 2025). &quot;HardHarvest: Hardware-Supported Core Harvesting for Microservices&quot;.	<i>In Proceedings of the 52nd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/HardHarvest_ISCA25.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="../files/hardharvest_isca25.pdf" target="_blank">[PDF]</a>
 </li>
@@ -105,16 +110,18 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 <ol reversed>
 
 <li>
-<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, E. Choukse, H. Qiu, R. Fonseca, J. Torrellas, R. Bianchini. (January 2025). &quot;TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms&quot;. <i>CoRR, vol. abs/2501.02600</i>. Paper: <a href="https://arxiv.org/abs/2501.02600" target="_blank">[PDF]</a>
+N. Iliakopoulou, <b>J. Stojkovic</b>, C. Alverti, T. Xu, H. Franke, J. Torrellas. (November 2024). &quot;Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments&quot;. <i>CoRR, vol. abs/2411.17741 </i>. Paper: <a href="https://arxiv.org/abs/2411.17741" target="_blank">[PDF]</a>
 </li>
 
+<!--
 <li>
-N. Iliakopoulou, <b>J. Stojkovic</b>, C. Alverti, T. Xu, H. Franke, J. Torrellas. (November 2024). &quot;Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments&quot;. <i>CoRR, vol. abs/2411.17741 </i>. Paper: <a href="https://arxiv.org/abs/2411.17741" target="_blank">[PDF]</a>
+<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, E. Choukse, H. Qiu, R. Fonseca, J. Torrellas, R. Bianchini. (January 2025). &quot;TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms&quot;. <i>CoRR, vol. abs/2501.02600</i>. Paper: <a href="https://arxiv.org/abs/2501.02600" target="_blank">[PDF]</a>
 </li>
 
 <li>
 <b>J. Stojkovic</b>, C. Zhang, Í. Goiri, J. Torrellas, E. Choukse. (August 2024). &quot;DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency&quot;. <i>CoRR, vol. abs/2408.00741</i>. Paper: <a href="https://arxiv.org/abs/2408.00741" target="_blank">[PDF]</a>
 </li>
+-->
 
 <li>
 L. Huang, A. Parayil, J. Zhang, X. Qin, C. Bansal, <b>J. Stojkovic</b>, P. Zardoshti, P. Misra, E. Cortez, R. Ghelman, Í. Goiri, S. Rajmohan, J. Kleewein, R. Fonseca, T. Zhu, R. Bianchini (April 2024). &quot;Workload Intelligence: Punching Holes Through the Cloud Abstraction&quot;. <i>CoRR, vol. abs/2404.19143</i>. Paper: <a href="https://arxiv.org/abs/2404.19143" target="_blank">[PDF]</a>
