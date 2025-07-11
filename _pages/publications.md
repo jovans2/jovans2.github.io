@@ -105,6 +105,7 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 
 </ol>
 
+<!--
 ## Preprints
 
 <ol reversed>
@@ -113,7 +114,6 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 N. Iliakopoulou, <b>J. Stojkovic</b>, C. Alverti, T. Xu, H. Franke, J. Torrellas. (November 2024). &quot;Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments&quot;. <i>CoRR, vol. abs/2411.17741 </i>. Paper: <a href="https://arxiv.org/abs/2411.17741" target="_blank">[PDF]</a>
 </li>
 
-<!--
 <li>
 <b>J. Stojkovic</b>, C. Zhang, Í. Goiri, E. Choukse, H. Qiu, R. Fonseca, J. Torrellas, R. Bianchini. (January 2025). &quot;TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms&quot;. <i>CoRR, vol. abs/2501.02600</i>. Paper: <a href="https://arxiv.org/abs/2501.02600" target="_blank">[PDF]</a>
 </li>
@@ -121,13 +121,13 @@ N. Iliakopoulou, <b>J. Stojkovic</b>, C. Alverti, T. Xu, H. Franke, J. Torrellas
 <li>
 <b>J. Stojkovic</b>, C. Zhang, Í. Goiri, J. Torrellas, E. Choukse. (August 2024). &quot;DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency&quot;. <i>CoRR, vol. abs/2408.00741</i>. Paper: <a href="https://arxiv.org/abs/2408.00741" target="_blank">[PDF]</a>
 </li>
--->
 
 <li>
 L. Huang, A. Parayil, J. Zhang, X. Qin, C. Bansal, <b>J. Stojkovic</b>, P. Zardoshti, P. Misra, E. Cortez, R. Ghelman, Í. Goiri, S. Rajmohan, J. Kleewein, R. Fonseca, T. Zhu, R. Bianchini (April 2024). &quot;Workload Intelligence: Punching Holes Through the Cloud Abstraction&quot;. <i>CoRR, vol. abs/2404.19143</i>. Paper: <a href="https://arxiv.org/abs/2404.19143" target="_blank">[PDF]</a>
 </li>
 
 </ol>
+-->
 
 ## Workshops, Posters, Demo
 
