@@ -29,7 +29,9 @@ Cloud-native workloads represent a shift in how services are deployed and manage
 
 In parallel, I focus on the rapidly growing demands of ML inference, especially the inference of generative LLMs. These models now serve latency-sensitive applications under strict Service Level Objectives (SLOs), often relying on power-hungry GPUs to meet performance demands. This has led to a dramatic rise in power draw and energy consumption from inference clusters. My work addresses this challenge through smart scheduling, workload placement, and system-level configuration tuning to reduce energy, power, and thermal overheads—while maintaining performance and accuracy guarantees.
 
+<!--
 <img src="../files/note_utstudents.png" alt="Note to prospective students" style="width:40%;" />
+--->
 
 <!-- 
 My work was recognized with an [HPCA Best Paper Award](https://jovans2.github.io/files/DynamoLLM_HPCA2025.pdf) and an [IEEE MICRO Top Picks Honorable Mention](https://jovans2.github.io/files/uManycore_ISCA2023_Final.pdf). I filed six patents with IBM and Microsoft for my work in serverless software stack design, processor overclocking in the cloud, and energy management for LLM inference workloads in the cloud.
@@ -51,6 +53,10 @@ I was awarded multiple student travel grants to attend ISCA, MICRO, ASPLOS, and 
 - Invited to present at [11th Heidelberg Laureate Forum (2024)](https://www.heidelberg-laureate-forum.org/forum/11th-hlf-2024.html)
 - [Kenichi Miura Award (2022)](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/kenichi-miura-award) for excellence in High Performance Computing
 - Multiple student travel grants to ISCA, MICRO, ASPLOS, and HPCA
+- I completed my undergraduate studies at [School of Electrical Engineering](https://www.etf.bg.ac.rs/en), University of Belgrade, Serbia. Every year (2017-2020), I was recognized as the best student of Computer Engineering and Information Theory Department.
 
-I completed my undergraduate studies at [School of Electrical Engineering](https://www.etf.bg.ac.rs/en), University of Belgrade, Serbia. Every year (2017-2020), I was recognized as the best student of Computer Engineering and Information Theory Department.
 
+
+### Service
+- Program Committee (PC) Member: ASPLOS'26, HPCA'26, EuroSys'26, ISPASS'26, HiPC '25, IEEE Cloud '25
+- Journal Reviewer: IEEE Micro Special Issue on AI for Hardware and Hardware for AI '25, Transactions on Computer Systems '25
