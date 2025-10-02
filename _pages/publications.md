@@ -111,6 +111,16 @@ Paper: <a href="../files/TELFOR_Camera.pdf" target="_blank">[PDF]</a>
 
 </ol>
 
+## Preprints
+
+<ol reversed>
+
+<li>
+<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, R. Bianchini. (September 2025). &quot;Rearchitecting Datacenter Lifecycle for AI: A TCO-Driven Framework&quot;. <i>CoRR, vol. abs/2509.26534</i>. Paper: <a href="https://arxiv.org/abs/2509.26534" target="_blank">[PDF]</a>
+</li>
+
+</ol>
+
 <!--
 ## Preprints
 
