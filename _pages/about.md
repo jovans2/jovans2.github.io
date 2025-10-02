@@ -58,5 +58,6 @@ I was awarded multiple student travel grants to attend ISCA, MICRO, ASPLOS, and 
 
 
 ### Service
-- Program Committee (PC) Member: ASPLOS'26, HPCA'26, EuroSys'26, ISPASS'26, HiPC '25, IEEE Cloud '25
-- Journal Reviewer: IEEE Micro Special Issue on AI for Hardware and Hardware for AI '25, Transactions on Computer Systems '25
+- PC Member 2026: HPCA, ASPLOS, EuroSys
+- PC Member 2025: ASPLOS (ER), IEEE Cloud, HiPC
+- Journal Reviewer 2025: IEEE Micro Special Issue on AI for Hardware and Hardware for AI, Transactions on Computer Systems
