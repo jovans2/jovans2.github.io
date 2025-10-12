@@ -33,7 +33,7 @@ Presentation: <a href="_blank" target="_blank">[PDF]</a>
 
 <li> S. Chai, J. Zhang, J. Kim, A. Wang, F. Chung, <b>J. Stojkovic</b>, W. Jia, D. Skarlatos, J. Torrellas, T. Xu. (July 2025). &quot;EMT: An OS Framework for New Memory Translation Architectures&quot;.	<i>In Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>.
 Paper: <a href="../files/emt_osdi2025.pdf" target="_blank">[PDF]</a>.
-Presentation: <a href="_blank" target="_blank">[PDF]</a>
+Presentation: <a href="../files/emt_osdi_presentation.pdf" target="_blank">[PDF]</a>
 </li>
 
 <li> <b>J. Stojkovic</b>, C. Liu, M. Shahbaz, J. Torrellas. (June 2025). &quot;HardHarvest: Hardware-Supported Core Harvesting for Microservices&quot;.	<i>In Proceedings of the 52nd International Symposium on Computer Architecture (ISCA)</i>.
