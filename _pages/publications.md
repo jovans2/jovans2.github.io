@@ -21,12 +21,18 @@ author_profile: true
 <ol reversed>
 
 <li>
-N. Iliakopoulou, <b>J. Stojkovic</b>, C. Alverti, T. Xu, H. Franke, J. Torrellas. (November 2025). &quot;Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments&quot;. <i>To Appear In Proceedings of the 58th International Symposium on Microarchitecture (MICRO)</i>. 
+<b>J. Stojkovic</b>, A. Farrell, Z. Gong, C. Hughes, J. Torrellas. (February 2026). &quot;AccelFlow: Orchestrating an On-Package Ensemble of Fine Grained Accelerators for Microservice Workloads&quot;. <i>To Appear In Proceedings of the 32nd International Symposium on High-Performance Computer Architecture (HPCA)</i>. 
+Paper: <a href="_blank" target="_blank">[PDF]</a>.
+Presentation: <a href="_blank" target="_blank">[PDF]</a>
+</li>
+
+<li>
+N. Iliakopoulou, <b>J. Stojkovic</b>, C. Alverti, T. Xu, H. Franke, J. Torrellas. (November 2025). &quot;Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments&quot;. <i>In Proceedings of the 58th International Symposium on Microarchitecture (MICRO)</i>. 
 Paper: <a href="https://arxiv.org/abs/2411.17741" target="_blank">[PDF]</a>.
 Presentation: <a href="_blank" target="_blank">[PDF]</a>
 </li>
 
-<li> L. Huang, A. Parayil, J. Zhang, X. Qin, C. Bansal, <b>J. Stojkovic</b>, P. Zardoshti, P. Misra, E. Cortez, R. Ghelman, Í. Goiri, S. Rajmohan, J. Kleewein, R. Fonseca, T. Zhu, R. Bianchini. (November 2025). &quot;Workload Sage: Workload-Aware IaaS abstraction for Cloud Efficiency&quot;. <i>To Appear In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</i>.
+<li> L. Huang, A. Parayil, J. Zhang, X. Qin, C. Bansal, <b>J. Stojkovic</b>, P. Zardoshti, P. Misra, E. Cortez, R. Ghelman, Í. Goiri, S. Rajmohan, J. Kleewein, R. Fonseca, T. Zhu, R. Bianchini. (November 2025). &quot;Workload Sage: Workload-Aware IaaS abstraction for Cloud Efficiency&quot;. <i>In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</i>.
 Paper: <a href="_blank" target="_blank">[PDF]</a>.
 Presentation: <a href="_blank" target="_blank">[PDF]</a>
 </li>
