@@ -45,6 +45,7 @@ I was awarded multiple student travel grants to attend ISCA, MICRO, ASPLOS, and 
 
 ### 🏆 Selected Honors and Awards
 
+- [David J. Kuck Outstanding Thesis Awards (2025)](http://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards) for an outstanding doctoral thesis
 - [HPCA Best Paper Award (2025)](https://jovans2.github.io/files/DynamoLLM_HPCA2025.pdf)
 - [IEEE MICRO Top Picks Honorable Mention (2024)](https://jovans2.github.io/files/uManycore_ISCA2023_Final.pdf)
 - 6 patents with IBM and Microsoft on: Serverless systems, Processor overclocking in the cloud, and Energy-efficient LLM inference
