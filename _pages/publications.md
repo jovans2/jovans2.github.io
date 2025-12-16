@@ -22,7 +22,7 @@ author_profile: true
 
 <li>
 <b>J. Stojkovic</b>, A. Farrell, Z. Gong, C. Hughes, J. Torrellas. (February 2026). &quot;AccelFlow: Orchestrating an On-Package Ensemble of Fine Grained Accelerators for Microservice Workloads&quot;. <i>To Appear In Proceedings of the 32nd International Symposium on High-Performance Computer Architecture (HPCA)</i>. 
-Paper: <a href="../files/AccelFlow_HPCA26.pdf" target="_blank">[PDF]</a>.
+Paper: <a href="../files/accelflow_hpca_2026.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="_blank" target="_blank">[PDF]</a>
 </li>
 
