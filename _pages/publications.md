@@ -198,6 +198,8 @@ Paper: <a href="https://maria.gorlatova.com/wp-content/uploads/2019/09/MultiUser
 
 ## Dissertation
 
+<ol>
 <li>
 J. Stojkovic. (August 2025). &quot;Chasing the “Tail at Scale”: Toward Cloud-Native Architectures&quot;. <i>University of Illinois at Urbana-Champaign</i>. PhD Thesis: <a href="../files/STOJKOVIC-DISSERTATION-2025.pdf" target="_blank">[PDF]</a>. <span style="color:blue">[Selected for the David J. Kuck Outstanding Thesis Award] </span>
 <\li>
+</ol>
