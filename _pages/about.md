@@ -54,7 +54,7 @@ I was awarded multiple student travel grants to attend ISCA, MICRO, ASPLOS, and 
 - [Kenichi Miura Award (2022)](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/kenichi-miura-award) for excellence in High Performance Computing
 - 6 patents with IBM and Microsoft on: Serverless systems, Processor overclocking in the cloud, and Energy-efficient LLM inference
 - Multiple student travel grants to ISCA, MICRO, ASPLOS, and HPCA
-- I completed my undergraduate studies at [School of Electrical Engineering](https://www.etf.bg.ac.rs/en), University of Belgrade, Serbia. Every year (2017-2020), I was recognized as the best student of Computer Engineering and Information Theory Department.
+- I completed my undergraduate studies at the [School of Electrical Engineering](https://www.etf.bg.ac.rs/en), University of Belgrade, Serbia. Every year (2017-2020), I was recognized as the best student of Computer Engineering and Information Theory Department.
 
 
 
