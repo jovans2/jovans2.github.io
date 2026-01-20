@@ -27,7 +27,7 @@ Presentation: <a href="_blank" target="_blank">[PDF]</a>
 </li>
 
 <li>
-J. Torrellas, <b>J. Stojkovic</b>. (December 2025). &quot;Toward Cloud-Native Architectures&quot;.<i>Project Repository Journal - Volume 25 - European Dissemination Media Agency</i>.
+J. Torrellas, <b>J. Stojkovic</b>. (December 2025). &quot;Toward Cloud-Native Architectures&quot;. <i>Project Repository Journal - Volume 25 - European Dissemination Media Agency</i>.
 Paper: <a href="../files/prj25.pdf" target="_blank">[PDF]</a>.
 </li>
 
