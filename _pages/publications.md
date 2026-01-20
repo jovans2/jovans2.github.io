@@ -27,6 +27,11 @@ Presentation: <a href="_blank" target="_blank">[PDF]</a>
 </li>
 
 <li>
+J. Torrellas, <b>J. Stojkovic</b>. (December 2025). &quot;Toward Cloud-Native Architectures&quot;.<i>Project Repository Journal - Volume 25 - European Dissemination Media Agency</i>.
+Paper: <a href="../files/prj25.pdf" target="_blank">[PDF]</a>.
+</li>
+
+<li>
 N. Iliakopoulou, <b>J. Stojkovic</b>, C. Alverti, T. Xu, H. Franke, J. Torrellas. (November 2025). &quot;Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments&quot;. <i>In Proceedings of the 58th International Symposium on Microarchitecture (MICRO)</i>. 
 Paper: <a href="https://arxiv.org/abs/2411.17741" target="_blank">[PDF]</a>.
 Presentation: <a href="_blank" target="_blank">[PDF]</a>
