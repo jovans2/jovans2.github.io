@@ -23,13 +23,13 @@ author_profile: true
 <li>
 R. Li, L. Piga, W. Su, C. Torres, <b>J. Stojkovic</b>, N. Yadwadkar, L. John, A. Dhanotia. (July 2026). &quot;Hardware Lifecycle-Aware Power Planning in Commercial Hyperscale Datacenters&quot;. <i>To Appear in Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>. 
 Paper: <a href="" target="_blank">[PDF]</a>.
-Presentation: <a href="" target="_blank">[PDF]</a>
+Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
 <li>
 <b>J. Stojkovic</b>, A. Farrell, Z. Gong, C. Hughes, J. Torrellas. (February 2026). &quot;AccelFlow: Orchestrating an On-Package Ensemble of Fine Grained Accelerators for Microservice Workloads&quot;. <i>In Proceedings of the 32nd International Symposium on High-Performance Computer Architecture (HPCA)</i>. 
 Paper: <a href="../files/accelflow_hpca_2026.pdf" target="_blank">[PDF]</a>.
-Presentation: <a href="../files/accelflow_hpca_pres.pdf" target="_blank">[PDF]</a>
+Presentation: <a href="../files/accelflow_hpca_pres.pdf" target="_blank">[PDF]</a>.
 </li>
 
 <li>
@@ -48,16 +48,16 @@ Paper: <a href="_blank" target="_blank">[PDF]</a>.
 
 <li> S. Chai, J. Zhang, J. Kim, A. Wang, F. Chung, <b>J. Stojkovic</b>, W. Jia, D. Skarlatos, J. Torrellas, T. Xu. (July 2025). &quot;EMT: An OS Framework for New Memory Translation Architectures&quot;.	<i>In Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>.
 Paper: <a href="../files/emt_osdi2025.pdf" target="_blank">[PDF]</a>.
-Presentation: <a href="../files/emt_osdi_presentation.pdf" target="_blank">[PDF]</a>
+Presentation: <a href="../files/emt_osdi_presentation.pdf" target="_blank">[PDF]</a>.  <span style="color:blue">[Selected as an Honorable Mention in IEEE Micro Top Picks from Computer Architecture Conferences] </span>
 </li>
 
 <li> <b>J. Stojkovic</b>, C. Liu, M. Shahbaz, J. Torrellas. (June 2025). &quot;HardHarvest: Hardware-Supported Core Harvesting for Microservices&quot;.	<i>In Proceedings of the 52nd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/HardHarvest_ISCA25.pdf" target="_blank">[PDF]</a>.
-Presentation: <a href="../files/hardharvest_isca25.pdf" target="_blank">[PDF]</a>
+Presentation: <a href="../files/hardharvest_isca25.pdf" target="_blank">[PDF]</a>.
 </li>
 
 <li>
-<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, E. Choukse, H. Qiu, R. Fonseca, J. Torrellas, R. Bianchini. (April 2025). &quot;TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms&quot;. <i>In Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>. Paper: <a href="../files/TAPAS_ASPLOS25.pdf" target="_blank">[PDF]</a>. Presentation: <a href="../files/jovan_tapas_asplos.pdf" target="_blank">[PDF]</a>.
+<b>J. Stojkovic</b>, C. Zhang, Í. Goiri, E. Choukse, H. Qiu, R. Fonseca, J. Torrellas, R. Bianchini. (April 2025). &quot;TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms&quot;. <i>In Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>. Paper: <a href="../files/TAPAS_ASPLOS25.pdf" target="_blank">[PDF]</a>. Presentation: <a href="../files/jovan_tapas_asplos.pdf" target="_blank">[PDF]</a>.  <span style="color:blue">[Selected as an Honorable Mention in IEEE Micro Top Picks from Computer Architecture Conferences] </span>
 </li>
 
 <li>
