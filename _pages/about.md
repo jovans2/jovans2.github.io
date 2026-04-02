@@ -45,11 +45,11 @@ I was awarded multiple student travel grants to attend ISCA, MICRO, ASPLOS, and 
 
 ### 🏆 Selected Honors and Awards
 
+- [IEEE MICRO Top Picks Honorable Mention (2026a)](https://jovans2.github.io/files/TAPAS_ASPLOS25.pdf), [IEEE MICRO Top Picks Honorable Mention (2026b)](https://jovans2.github.io/files/emt_osdi2025.pdf), and [IEEE MICRO Top Picks Honorable Mention (2024)](https://jovans2.github.io/files/uManycore_ISCA2023_Final.pdf)
 - [David J. Kuck Outstanding Thesis Award (2025)](http://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards) for an outstanding doctoral thesis
 - [HPCA Best Paper Award (2025)](https://jovans2.github.io/files/DynamoLLM_HPCA2025.pdf)
 - [W. J. Poppelbaum Memorial Award (2025)](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/w-j-poppelbaum-memorial-award) for hardware and architecture innovation
 - [Mavis Future Faculty Fellowship (2024–2025)](https://mavis.grainger.illinois.edu/)
-- [IEEE MICRO Top Picks Honorable Mention (2024)](https://jovans2.github.io/files/uManycore_ISCA2023_Final.pdf)
 - Invited to present at [11th Heidelberg Laureate Forum (2024)](https://www.heidelberg-laureate-forum.org/forum/11th-hlf-2024.html)
 - [Kenichi Miura Award (2022)](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/kenichi-miura-award) for excellence in High Performance Computing
 - 6 patents with IBM and Microsoft on: Serverless systems, Processor overclocking in the cloud, and Energy-efficient LLM inference
