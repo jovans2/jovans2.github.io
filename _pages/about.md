@@ -63,4 +63,5 @@ I was awarded multiple student travel grants to attend ISCA, MICRO, ASPLOS, and 
 - PC Member 2027: ASPLOS
 - PC Member 2026: ISCA, MICRO, HPCA, ASPLOS, EuroSys, ISPASS
 - PC Member 2025: ASPLOS (ER), IEEE Cloud, HiPC
+- Journal Reviewer 2026: IEEE Computer Architecture Letters
 - Journal Reviewer 2025: IEEE Micro Special Issue on AI for Hardware and Hardware for AI, Transactions on Computer Systems
