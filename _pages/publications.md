@@ -20,6 +20,31 @@ author_profile: true
 
 <ol reversed>
 
+<li> J. Kim, C. Zhang, I. Goiri, C. J. Rossbach, <b>J. Stojkovic</b>. (June 2026). "PhaseWeave: Phase-Aware Execution on Heterogeneous Chiplet Architectures for Datacenters". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+Paper: <a href="" target="_blank">[PDF]</a>.
+Presentation: <a href="" target="_blank">[PDF]</a>.
+</li>
+
+<li> <b>J. Stojkovic</b>, C. Zhang, I. Goiri, R. Bianchini. (June 2026). "Rearchitecting the Datacenter Lifecycle for AI". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+Paper: <a href="" target="_blank">[PDF]</a>.
+Presentation: <a href="" target="_blank">[PDF]</a>.
+</li>
+
+<li> <b>J. Stojkovic</b>, A. Farrell, G. Gerogiannis, Z. Gong, C. J. Hughes, J. Torrellas. (June 2026). "Dorado: Clustered Hardware Cache Coherence for 1,000+ Cores". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+Paper: <a href="" target="_blank">[PDF]</a>.
+Presentation: <a href="" target="_blank">[PDF]</a>.
+</li>
+
+<li> A. Cho, <b>J. Stojkovic</b>, L. Piga, A. Dhanotia, S. M. Sajal, G. Zuo, K. Malladi, D. Akers, K. Subramanian, S. Kanaujia, A. Daglis. (June 2026). "Power Sloshing in Compound Servers for Large-Scale AI Inference Workloads". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+Paper: <a href="" target="_blank">[PDF]</a>.
+Presentation: <a href="" target="_blank">[PDF]</a>.
+</li>
+
+<li> N. Gholkar, <b>J. Stojkovic</b>, H. Maruf, G. Price, P. Chauhan, H. Patel, C. Van Goethem, K. Vemuri, K. Malwankar, K. Sriadibhatla, K. Subramanian, S. Kanaujia, C. Tang, A. Dhanotia. (June 2026). "Vistara: Making CXL Real—Full Path from ASIC Design and OS Support to Hyperscale Deployment". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+Paper: <a href="" target="_blank">[PDF]</a>.
+Presentation: <a href="" target="_blank">[PDF]</a>.
+</li>
+
 <li>
 R. Li, L. Piga, W. Su, C. Torres, <b>J. Stojkovic</b>, N. Yadwadkar, L. John, A. Dhanotia. (July 2026). &quot;Hardware Lifecycle-Aware Power Planning in Commercial Hyperscale Datacenters&quot;. <i>To Appear in Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>. 
 Paper: <a href="" target="_blank">[PDF]</a>.
