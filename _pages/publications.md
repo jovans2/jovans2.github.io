@@ -20,7 +20,7 @@ author_profile: true
 
 <ol reversed>
 
-<li> J. Kim, C. Zhang, I. Goiri, C. J. Rossbach, <b>J. Stojkovic</b>. (June 2026). "PhaseWeave: Phase-Aware Execution on Heterogeneous Chiplet Architectures for Datacenters". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+<li> J. Kim, C. Zhang, I. Goiri, C. Rossbach, <b>J. Stojkovic</b>. (June 2026). "PhaseWeave: Phase-Aware Execution on Heterogeneous Chiplet Architectures for Datacenters". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
@@ -30,12 +30,12 @@ Paper: <a href="" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
-<li> <b>J. Stojkovic</b>, A. Farrell, G. Gerogiannis, Z. Gong, C. J. Hughes, J. Torrellas. (June 2026). "Dorado: Clustered Hardware Cache Coherence for 1,000+ Cores". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+<li> <b>J. Stojkovic</b>, A. Farrell, G. Gerogiannis, Z. Gong, C. Hughes, J. Torrellas. (June 2026). "Dorado: Clustered Hardware Cache Coherence for 1,000+ Cores". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
-<li> A. Cho, <b>J. Stojkovic</b>, L. Piga, A. Dhanotia, S. M. Sajal, G. Zuo, K. Malladi, D. Akers, K. Subramanian, S. Kanaujia, A. Daglis. (June 2026). "Power Sloshing in Compound Servers for Large-Scale AI Inference Workloads". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+<li> A. Cho, <b>J. Stojkovic</b>, L. Piga, A. Dhanotia, S. Sajal, G. Zuo, K. Malladi, D. Akers, K. Subramanian, S. Kanaujia, A. Daglis. (June 2026). "Power Sloshing in Compound Servers for Large-Scale AI Inference Workloads". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
