@@ -26,12 +26,12 @@ Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
 <li> <b>J. Stojkovic</b>, C. Zhang, Í. Goiri, R. Bianchini. (June 2026). "Rearchitecting the Datacenter Lifecycle for AI". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
-Paper: <a href="" target="_blank">[PDF]</a>.
+Paper: <a href="../files/gpu_dc_lifecycle_isca_camera_ready.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
 <li> <b>J. Stojkovic</b>, A. Farrell, G. Gerogiannis, Z. Gong, C. Hughes, J. Torrellas. (June 2026). "Dorado: Clustered Hardware Cache Coherence for 1,000+ Cores". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
-Paper: <a href="" target="_blank">[PDF]</a>.
+Paper: <a href="../files/dorado_isca_camera_ready.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
