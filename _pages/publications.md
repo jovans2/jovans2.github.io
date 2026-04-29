@@ -36,7 +36,7 @@ Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
 <li> A. Cho, <b>J. Stojkovic</b>, L. Piga, A. Dhanotia, S. Sajal, G. Zuo, K. Malladi, D. Akers, K. Subramanian, S. Kanaujia, A. Daglis. (June 2026). "Power Sloshing in Compound Servers for Large-Scale AI Inference Workloads". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
-Paper: <a href="" target="_blank">[PDF]</a>.
+Paper: <a href="../files/power_sloshing_isca_camera_ready.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
