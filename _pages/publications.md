@@ -21,7 +21,7 @@ author_profile: true
 <ol reversed>
 
 <li> J. Kim, C. Zhang, Í. Goiri, C. Rossbach, <b>J. Stojkovic</b>. (June 2026). "PhaseWeave: Phase-Aware Execution on Heterogeneous Chiplet Architectures for Datacenters". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
-Paper: <a href="" target="_blank">[PDF]</a>.
+Paper: <a href="../files/phaseweave_isca_camera_ready.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
