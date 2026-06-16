@@ -47,7 +47,7 @@ Presentation: <a href="" target="_blank">[PDF]</a>.
 
 <li>
 R. Li, L. Piga, W. Su, C. Torres, <b>J. Stojkovic</b>, N. Yadwadkar, L. John, A. Dhanotia. (July 2026). &quot;Hardware Lifecycle-Aware Power Planning in Commercial Hyperscale Datacenters&quot;. <i>To Appear in Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>. 
-Paper: <a href="" target="_blank">[PDF]</a>.
+Paper: <a href="../files/Li_OSDI_2026.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
