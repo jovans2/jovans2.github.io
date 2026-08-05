@@ -58,7 +58,8 @@ I was awarded multiple student travel grants to attend ISCA, MICRO, ASPLOS, and 
 
 
 ### Service
-- PC Member 2027: ASPLOS
+- PC Member 2027: ASPLOS, HPCA
+- Artifact Evaluation Co-Chair HPCA 2027
 - PC Member 2026: ISCA, MICRO, HPCA, ASPLOS, EuroSys, ISPASS
 - PC Member 2025: ASPLOS (ER), IEEE Cloud, HiPC
 - Journal Reviewer 2026: IEEE Computer Architecture Letters
