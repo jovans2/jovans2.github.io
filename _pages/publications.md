@@ -20,33 +20,43 @@ author_profile: true
 
 <ol reversed>
 
-<li> J. Kim, C. Zhang, Í. Goiri, C. Rossbach, <b>J. Stojkovic</b>. (June 2026). "PhaseWeave: Phase-Aware Execution on Heterogeneous Chiplet Architectures for Datacenters". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+<li> A. Andrade, P. Acimovic, W. Su, S. Mahar, A. Kokolis, A. Dhanotia, <b>J. Stojkovic</b>. (November 2026). "Fidelio: Agentic AI Framework for Synthesizing Microarchitecture-Faithful Datacenter Benchmarks". <i>To Appear In Proceedings of the 59th International Symposium on Microarchitecture (MICRO)</i>.
+Paper: <a href="" target="_blank">[PDF]</a>.
+Presentation: <a href="" target="_blank">[PDF]</a>.
+</li>
+
+<li> M. Kim, D. Yoon, G. Zuo, J. Lim, <b>J. Stojkovic</b>, S. Kanaujia, H. Jagannati, Z. Shu. (November 2026). "Power Roofline". <i>To Appear In Proceedings of the 59th International Symposium on Microarchitecture (MICRO)</i>.
+Paper: <a href="" target="_blank">[PDF]</a>.
+Presentation: <a href="" target="_blank">[PDF]</a>.
+</li>
+
+<li> J. Kim, C. Zhang, Í. Goiri, C. Rossbach, <b>J. Stojkovic</b>. (June 2026). "PhaseWeave: Phase-Aware Execution on Heterogeneous Chiplet Architectures for Datacenters". <i>In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/phaseweave_isca_camera_ready.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
-<li> <b>J. Stojkovic</b>, C. Zhang, Í. Goiri, R. Bianchini. (June 2026). "Rearchitecting the Datacenter Lifecycle for AI". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+<li> <b>J. Stojkovic</b>, C. Zhang, Í. Goiri, R. Bianchini. (June 2026). "Rearchitecting the Datacenter Lifecycle for AI". <i>In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/gpu_dc_lifecycle_isca_camera_ready.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
-<li> <b>J. Stojkovic</b>, A. Farrell, G. Gerogiannis, Z. Gong, C. Hughes, J. Torrellas. (June 2026). "Dorado: Clustered Hardware Cache Coherence for 1,000+ Cores". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+<li> <b>J. Stojkovic</b>, A. Farrell, G. Gerogiannis, Z. Gong, C. Hughes, J. Torrellas. (June 2026). "Dorado: Clustered Hardware Cache Coherence for 1,000+ Cores". <i>In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/dorado_isca_camera_ready.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
-<li> A. Cho, <b>J. Stojkovic</b>, L. Piga, A. Dhanotia, S. Sajal, G. Zuo, K. Malladi, D. Akers, K. Subramanian, S. Kanaujia, A. Daglis. (June 2026). "Power Sloshing in Compound Servers for Large-Scale AI Inference Workloads". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+<li> A. Cho, <b>J. Stojkovic</b>, L. Piga, A. Dhanotia, S. Sajal, G. Zuo, K. Malladi, D. Akers, K. Subramanian, S. Kanaujia, A. Daglis. (June 2026). "Power Sloshing in Compound Servers for Large-Scale AI Inference Workloads". <i>In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/power_sloshing_isca_camera_ready.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
-<li> N. Gholkar, <b>J. Stojkovic</b>, H. Maruf, G. Price, P. Chauhan, H. Patel, C. Van Goethem, K. Vemuri, K. Malwankar, K. Sriadibhatla, K. Subramanian, S. Kanaujia, C. Tang, A. Dhanotia. (June 2026). "Vistara: Making CXL Real—Full Path from ASIC Design and OS Support to Hyperscale Deployment". <i>To Appear In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
+<li> N. Gholkar, <b>J. Stojkovic</b>, H. Maruf, G. Price, P. Chauhan, H. Patel, C. Van Goethem, K. Vemuri, K. Malwankar, K. Sriadibhatla, K. Subramanian, S. Kanaujia, C. Tang, A. Dhanotia. (June 2026). "Vistara: Making CXL Real—Full Path from ASIC Design and OS Support to Hyperscale Deployment". <i>In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/vistara_camera_ready.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
 <li>
-R. Li, L. Piga, W. Su, C. Torres, <b>J. Stojkovic</b>, N. Yadwadkar, L. John, A. Dhanotia. (July 2026). &quot;Hardware Lifecycle-Aware Power Planning in Commercial Hyperscale Datacenters&quot;. <i>To Appear in Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>. 
+R. Li, L. Piga, W. Su, C. Torres, <b>J. Stojkovic</b>, N. Yadwadkar, L. John, A. Dhanotia. (July 2026). &quot;Hardware Lifecycle-Aware Power Planning in Commercial Hyperscale Datacenters&quot;. <i>In Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI)</i>. 
 Paper: <a href="../files/Li_OSDI_2026.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
