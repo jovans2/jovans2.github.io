@@ -32,7 +32,7 @@ Presentation: <a href="" target="_blank">[PDF]</a>.
 
 <li> J. Kim, C. Zhang, Í. Goiri, C. Rossbach, <b>J. Stojkovic</b>. (June 2026). "PhaseWeave: Phase-Aware Execution on Heterogeneous Chiplet Architectures for Datacenters". <i>In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/phaseweave_isca_camera_ready.pdf" target="_blank">[PDF]</a>.
-Presentation: <a href="../files/" target="_blank">[PDF]</a>.
+Presentation: <a href="../files/PhaseWeave_ISCA26_Slides.pdf" target="_blank">[PDF]</a>.
 </li>
 
 <li> <b>J. Stojkovic</b>, C. Zhang, Í. Goiri, R. Bianchini. (June 2026). "Rearchitecting the Datacenter Lifecycle for AI". <i>In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
