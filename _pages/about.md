@@ -22,7 +22,7 @@ My research focuses on **cloud computing and datacenters**, with two primary dom
 My research focuses on **cloud computing and datacenters**, with two primary domains:
 
 1. ☁️ **Cloud-native workloads**, such as *microservices* and *serverless computing*
-2. 🤖 **Machine Learning (ML) inference**, particularly *large language models (LLMs)*
+2. 🤖 **Machine Learning (ML) inference**, such as *large language models (LLMs)* and *agentic AI*
 
 Cloud-native workloads represent a shift in how services are deployed and managed, offering scalability, a simplified programming model, and cost-effective billing. However, these benefits come with new challenges. Unlike traditional monolithic applications, microservices and serverless functions exhibit high communication overhead, fine-grained execution, bursty invocation patterns, and focus on optimizing for tail latency—all of which lead to poor performance, resource, and energy inefficiency on conventional cloud infrastructure. As these deployment paradigms gain traction, my research aims to co-design novel hardware platforms and software systems that deliver orders-of-magnitude improvements in performance, energy efficiency, and resource utilization for these emerging workloads.
 
