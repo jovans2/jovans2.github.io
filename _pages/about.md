@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Jovan Stojkovic, an Assistant Professor of Computer Science at the University of Texas at Austin where I lead the [CASCADE](https://cascade.cs.utexas.edu/) group. Before joining UT Austin, I spent a year at Meta working with the [AI and Systems Co-design group](https://aisystemcodesign.github.io/).
+I am Jovan Stojkovic, an Assistant Professor of Computer Science at the University of Texas at Austin where I lead the [CASCADE](https://cascade.cs.utexas.edu/) group. I am also a Visiting Researcher at Meta working with the [AI and Systems Co-design group](https://aisystemcodesign.github.io/).
 I completed my PhD at the University of Illinois at Urbana-Champaign.
 <!-- , where I was advised by Professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html).--->
 
