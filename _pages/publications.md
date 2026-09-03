@@ -25,7 +25,7 @@ Paper: <a href="" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
-<li> M. Kim, D. Yoon, G. Zuo, J. Lim, <b>J. Stojkovic</b>, S. Kanaujia, H. Jagannati, Z. Shu. (November 2026). "Power Roofline". <i>To Appear In Proceedings of the 59th International Symposium on Microarchitecture (MICRO)</i>.
+<li> M. Kim, D. Yoon, G. Zuo, J. Lim, S. Kanaujia, H. Jagannati, Z. Shu, <b>J. Stojkovic</b>. (November 2026). "Power Roofline". <i>To Appear In Proceedings of the 59th International Symposium on Microarchitecture (MICRO)</i>.
 Paper: <a href="" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
