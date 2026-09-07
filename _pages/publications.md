@@ -33,6 +33,7 @@ Presentation: <a href="" target="_blank">[PDF]</a>.
 <li> J. Kim, C. Zhang, Í. Goiri, C. Rossbach, <b>J. Stojkovic</b>. (June 2026). "PhaseWeave: Phase-Aware Execution on Heterogeneous Chiplet Architectures for Datacenters". <i>In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/phaseweave_isca_camera_ready.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="../files/PhaseWeave_ISCA26_Slides.pdf" target="_blank">[PDF]</a>.
+Artifact: <a href="https://github.com/UTCS-CASCADE/PhaseWeave" target="_blank">[GitHub]</a>.
 </li>
 
 <li> <b>J. Stojkovic</b>, C. Zhang, Í. Goiri, R. Bianchini. (June 2026). "Rearchitecting the Datacenter Lifecycle for AI". <i>In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
@@ -121,7 +122,7 @@ Presentation: <a href="../files/smartoclock_presentation.pdf" target="_blank">[P
 
 <li> <b>J. Stojkovic</b>, T. Xu, H. Franke, J. Torrellas. (June 2023). &quot;MXFaaS: Resource Sharing in Serverless Environments for Parallelism and Efficiency&quot;.	<i>In Proceedings of the 50th International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/MXFaaS_ISCA2023_Final.pdf" target="_blank">[PDF]</a>.
-Presentation: <a href="../files/jovan_isca23_1_to_print.pdf" target="_blank">[PDF]</a>
+Presentation: <a href="../files/jovan_isca23_1_to_print.pdf" target="_blank">[PDF]</a>.
 Artifact: <a href="https://github.com/jovans2/MXFaaS_Artifact" target="_blank">[GitHub]</a>
 </li>
   
