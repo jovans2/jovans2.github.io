@@ -44,6 +44,7 @@ I was awarded multiple student travel grants to attend ISCA, MICRO, ASPLOS, and 
 
 ### 🏆 Selected Honors and Awards
 
+- ISCA Hall of Fame
 - [IEEE MICRO Top Picks Honorable Mention (2026a)](https://jovans2.github.io/files/TAPAS_ASPLOS25.pdf), [IEEE MICRO Top Picks Honorable Mention (2026b)](https://jovans2.github.io/files/emt_osdi2025.pdf), and [IEEE MICRO Top Picks Honorable Mention (2024)](https://jovans2.github.io/files/uManycore_ISCA2023_Final.pdf)
 - [David J. Kuck Outstanding Thesis Award (2025)](http://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards) for an outstanding doctoral thesis
 - [HPCA Best Paper Award (2025)](https://jovans2.github.io/files/DynamoLLM_HPCA2025.pdf)
