@@ -21,7 +21,7 @@ author_profile: true
 <ol reversed>
 
 <li> A. Andrade, P. Acimovic, W. Su, S. Mahar, A. Kokolis, A. Dhanotia, <b>J. Stojkovic</b>. (November 2026). "Fidelio: Agentic AI Framework for Synthesizing Microarchitecture-Faithful Datacenter Benchmarks". <i>To Appear In Proceedings of the 59th International Symposium on Microarchitecture (MICRO)</i>.
-Paper: <a href="" target="_blank">[PDF]</a>.
+Paper: <a href="../files/Fidelio_MICRO_CameraReady_Final.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
