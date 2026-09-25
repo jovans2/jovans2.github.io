@@ -43,7 +43,7 @@ Presentation: <a href="../files/jovan_isca26_dc_tco.pdf" target="_blank">[PDF]</
 
 <li> <b>J. Stojkovic</b>, A. Farrell, G. Gerogiannis, Z. Gong, C. Hughes, J. Torrellas. (June 2026). "Dorado: Clustered Hardware Cache Coherence for 1,000+ Cores". <i>In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
 Paper: <a href="../files/dorado_isca_camera_ready.pdf" target="_blank">[PDF]</a>.
-Presentation: <a href="../files/PhaseWeave_ISCA26_Slides.pdf" target="_blank">[PDF]</a>.
+Presentation: <a href="../files/dorado_presentation.pdf" target="_blank">[PDF]</a>.
 </li>
 
 <li> A. Cho, <b>J. Stojkovic</b>, L. Piga, A. Dhanotia, S. Sajal, G. Zuo, K. Malladi, D. Akers, K. Subramanian, S. Kanaujia, A. Daglis. (June 2026). "Power Sloshing in Compound Servers for Large-Scale AI Inference Workloads". <i>In Proceedings of the 53rd International Symposium on Computer Architecture (ISCA)</i>.
