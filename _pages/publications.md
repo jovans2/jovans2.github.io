@@ -20,6 +20,11 @@ author_profile: true
 
 <ol reversed>
 
+<li> E. Ardestani, L. Piga, <b>J. Stojkovic</b>, P. Balaji, M. Ozdal, M. Dimovska, M. Jimenez Fernandez, H. Shen, D. Vishwanath, R. Mishra, M. Mihret, C. Fernandez, V. Andrei, M. Cespedes, J. Prigent, T. Graf, J. Monahan, P. Thakar, A. Sharif, J. Min, L. Tadic, B. Li, Y. Xia, S. Kanaujia, K. Veeraraghavan, C. Tang. (March 2027). "End-to-End Power Management for a 150 MW AI Datacenter: From Planning to Runtime Optimization". <i>To Appear In Proceedings of the International Symposium on High-Performance Computer Architecture (HPCA)</i>.
+Paper: <a href="" target="_blank">[PDF]</a>.
+Presentation: <a href="" target="_blank">[PDF]</a>.
+</li>
+
 <li> A. Andrade, P. Acimovic, W. Su, S. Mahar, A. Kokolis, A. Dhanotia, <b>J. Stojkovic</b>. (November 2026). "Fidelio: Agentic AI Framework for Synthesizing Microarchitecture-Faithful Datacenter Benchmarks". <i>To Appear In Proceedings of the 59th International Symposium on Microarchitecture (MICRO)</i>.
 Paper: <a href="../files/Fidelio_MICRO_CameraReady_Final.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
