@@ -20,8 +20,8 @@ author_profile: true
 
 <ol reversed>
 
-<li> E. Ardestani, L. Piga, <b>J. Stojkovic</b>, P. Balaji, M. Ozdal, M. Dimovska, M. Jimenez Fernandez, H. Shen, D. Vishwanath, R. Mishra, M. Mihret, C. Fernandez, V. Andrei, M. Cespedes, J. Prigent, T. Graf, J. Monahan, P. Thakar, A. Sharif, J. Min, L. Tadic, B. Li, Y. Xia, S. Kanaujia, K. Veeraraghavan, C. Tang. (March 2027). "End-to-End Power Management for a 150 MW AI Datacenter: From Planning to Runtime Optimization". <i>To Appear In Proceedings of the International Symposium on High-Performance Computer Architecture (HPCA)</i>.
-Paper: <a href="" target="_blank">[PDF]</a>.
+<li> E. Ardestani, L. Piga, <b>J. Stojkovic</b>, P. Balaji, M. Ozdal, M. Dimovska, M. Jimenez Fernandez, H. Shen, D. Vishwanath, R. Mishra, M. Mihret, C. Fernandez, V. Andrei, M. Cespedes, J. Prigent, T. Graf, J. Monahan, P. Thakar, A. Sharif, J. Min, L. Tadic, B. Li, Y. Xia, S. Kanaujia, K. Veeraraghavan, C. Tang. (March 2027). "End-to-End Power Management for a 160 MW AI Datacenter: From Planning to Runtime Optimization". <i>To Appear In Proceedings of the International Symposium on High-Performance Computer Architecture (HPCA)</i>.
+Paper: <a href="../files/HPCA27-AI-Cluster-Power.pdf" target="_blank">[PDF]</a>.
 Presentation: <a href="" target="_blank">[PDF]</a>.
 </li>
 
